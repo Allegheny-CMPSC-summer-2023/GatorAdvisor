@@ -352,9 +352,11 @@ function CourseCard(props) {
         </p>
         <div>
           <h1 style={{ fontWeight: "bold" }}>Preqrequisites: </h1>
-          {props.prereqs.map((prereq) => {
-            <p>{prereq}</p>;
-          })}
+          <ul style={listStyle}>
+            {props.prereqs.map((prereq) => (
+              <li>{prereq}</li>
+            ))}
+          </ul>
         </div>
         <div>
           <h1>Unlocks: </h1>
