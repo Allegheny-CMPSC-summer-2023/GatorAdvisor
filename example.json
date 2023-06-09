@@ -54,6 +54,61 @@
         "lab": [],
         "learningObjectives": [],
         "learningOutcomes": []
+    },
+    {
+        "courseNumber": "SE 600",
+        "courseName": "Senior Thesis I",
+        "Major": ["Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": [], "allof": ["CMPSC 580"] },
+
+        "unlocks": [],
+        "courseDescription": "",
+
+        "cslevel": "",
+        "dslevel": "",
+        "dsSub": "",
+        "inflevel": "",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+    },
+    {
+        "courseNumber": "SE 610",
+        "courseName": "Senior Thesis II",
+        "Major": ["Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": [], "allof": ["SE 600"] },
+
+        "unlocks": [],
+        "courseDescription": "Continuation of independent research in software engineering culminating in the development of and release of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+        "cslevel": "",
+        "dslevel": "",
+        "dsSub": "",
+        "inflevel": "",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+
         }
     ]
 }
