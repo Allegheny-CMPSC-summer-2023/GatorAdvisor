@@ -1,0 +1,587 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "courses": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "courseNumber": {
+              "type": "string"
+            },
+            "courseName": {
+              "type": "string"
+            },
+            "Major": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "Minor": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "distributionRequirements": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "credits": {
+              "type": "string"
+            },
+            "prerequisites": {
+              "type": "object",
+              "properties": {
+                "anyof": {
+                  "type": "array",
+                  "items": {}
+                },
+                "allof": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "string"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "anyof",
+                "allof"
+              ]
+            },
+            "unlocks": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "courseDescription": {
+              "type": "string"
+            },
+            "cslevel": {
+              "type": "string"
+            },
+            "dslevel": {
+              "type": "string"
+            },
+            "dsSub": {
+              "type": "string"
+            },
+            "inflevel": {
+              "type": "string"
+            },
+            "infSub": {
+              "type": "string"
+            },
+            "selevel": {
+              "type": "string"
+            },
+            "topics": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "tools": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "lab": {
+              "type": "array",
+              "items": {}
+            },
+            "learningObjectives": {
+              "type": "array",
+              "items": {}
+            },
+            "learningOutcomes": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "courseNumber",
+            "courseName",
+            "Major",
+            "Minor",
+            "distributionRequirements",
+            "credits",
+            "prerequisites",
+            "unlocks",
+            "courseDescription",
+            "cslevel",
+            "dslevel",
+            "dsSub",
+            "inflevel",
+            "infSub",
+            "selevel",
+            "topics",
+            "tools",
+            "lab",
+            "learningObjectives",
+            "learningOutcomes"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "courseNumber": {
+              "type": "string"
+            },
+            "courseName": {
+              "type": "string"
+            },
+            "Major": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "Minor": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "distributionRequirements": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "credits": {
+              "type": "string"
+            },
+            "prerequisites": {
+              "type": "object",
+              "properties": {
+                "anyof": {
+                  "type": "array",
+                  "items": {}
+                },
+                "allof": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "string"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "anyof",
+                "allof"
+              ]
+            },
+            "unlocks": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "courseDescription": {
+              "type": "string"
+            },
+            "cslevel": {
+              "type": "string"
+            },
+            "dslevel": {
+              "type": "string"
+            },
+            "dsSub": {
+              "type": "string"
+            },
+            "inflevel": {
+              "type": "string"
+            },
+            "infSub": {
+              "type": "string"
+            },
+            "selevel": {
+              "type": "string"
+            },
+            "topics": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "tools": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "lab": {
+              "type": "array",
+              "items": {}
+            },
+            "learningObjectives": {
+              "type": "array",
+              "items": {}
+            },
+            "learningOutcomes": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "courseNumber",
+            "courseName",
+            "Major",
+            "Minor",
+            "distributionRequirements",
+            "credits",
+            "prerequisites",
+            "unlocks",
+            "courseDescription",
+            "cslevel",
+            "dslevel",
+            "dsSub",
+            "inflevel",
+            "infSub",
+            "selevel",
+            "topics",
+            "tools",
+            "lab",
+            "learningObjectives",
+            "learningOutcomes"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "courseNumber": {
+              "type": "string"
+            },
+            "courseName": {
+              "type": "string"
+            },
+            "Major": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "Minor": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "distributionRequirements": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "credits": {
+              "type": "string"
+            },
+            "prerequisites": {
+              "type": "object",
+              "properties": {
+                "anyof": {
+                  "type": "array",
+                  "items": {}
+                },
+                "allof": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "string"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "anyof",
+                "allof"
+              ]
+            },
+            "unlocks": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "courseDescription": {
+              "type": "string"
+            },
+            "cslevel": {
+              "type": "string"
+            },
+            "dslevel": {
+              "type": "string"
+            },
+            "dsSub": {
+              "type": "string"
+            },
+            "inflevel": {
+              "type": "string"
+            },
+            "infSub": {
+              "type": "string"
+            },
+            "selevel": {
+              "type": "string"
+            },
+            "topics": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "tools": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "lab": {
+              "type": "array",
+              "items": {}
+            },
+            "learningObjectives": {
+              "type": "array",
+              "items": {}
+            },
+            "learningOutcomes": {
+              "type": "array",
+              "items": {}
+            }
+          },
+          "required": [
+            "courseNumber",
+            "courseName",
+            "Major",
+            "Minor",
+            "distributionRequirements",
+            "credits",
+            "prerequisites",
+            "unlocks",
+            "courseDescription",
+            "cslevel",
+            "dslevel",
+            "dsSub",
+            "inflevel",
+            "infSub",
+            "selevel",
+            "topics",
+            "tools",
+            "lab",
+            "learningObjectives",
+            "learningOutcomes"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "courses"
+  ]
+}
