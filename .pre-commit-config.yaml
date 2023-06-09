@@ -19,6 +19,6 @@ repos:
     rev: 0.23.1
     hooks:
       - id: check-jsonschema
-        name: Validate Test Configs
+        name: Validate JSON schema
         args: ["--schemafile", "config-schema.json"]
         files: ^tests/example-files/.*/_config.yaml$
