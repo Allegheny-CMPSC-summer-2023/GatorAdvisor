@@ -473,12 +473,10 @@ function CourseCard(props) {
           <h1 style={{ fontWeight: "bold" }}>Preqrequisites: </h1>
           <ul style={listStyle}>
             {props.prereqs.allof.map((req) => (
-              <li>
-                Take {req} - Must be completed prior to taking this course.{" "}
-              </li>
+              <li>Take {req} </li>
             ))}
             {props.prereqs.anyof.length !== 0 && (
-              <li>{props.prereqs.anyof.join(" or ")}</li>
+              <li>Take {props.prereqs.anyof.join(" or ")}</li>
             )}
           </ul>
         </div>
