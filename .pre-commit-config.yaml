@@ -22,3 +22,6 @@ repos:
         name: Validate JSON schema
         args: ["--schemafile", "example.json"]
         files: ^tests/example-files/.*/_config.yaml$
+      - id: check-metaschema
+        name: Validate Vendored Schemas
+        files: ^src/check_jsonschema/builtin_schemas/vendor/.*\.json$
