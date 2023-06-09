@@ -20,5 +20,5 @@ repos:
     hooks:
       - id: check-jsonschema
         name: Validate JSON schema
-        args: ["--schemafile", "config-schema.json"]
+        args: ["--schemafile", "example.json"]
         files: ^tests/example-files/.*/_config.yaml$
