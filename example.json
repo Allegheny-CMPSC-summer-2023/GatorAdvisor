@@ -1,0 +1,167 @@
+
+{
+    "courses": [
+    {
+        "courseNumber": "DOUBL 600",
+        "courseName": "Sr Project I: Double Major",
+        "Major": ["Computer Science Major", "Data Science Major", "Informatics Major", "Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "1 to 4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": ["Instructor-approved 580 equivalent", "CMPSC 580"], "allof": [] },
+
+        "unlocks": [],
+        "courseDescription": "Continuation of independent research in software engineering culminating in the development of and release of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+        "cslevel": "Project",
+        "dslevel": "Project",
+        "dsSub": "",
+        "inflevel": "Project",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+    },
+    {
+        "courseNumber": "DOUBL 610",
+        "courseName": "Sr Project II: Double Major",
+        "Major": ["Computer Science Major", "Data Science Major", "Informatics Major", "Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "1 to 4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": [], "allof": ["DOUBL 600"] },
+
+        "unlocks": [],
+        "courseDescription": "Independent research in software engineering culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+        "cslevel": "Project",
+        "dslevel": "Project",
+        "dsSub": "",
+        "inflevel": "Project",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+    },
+    {
+        "courseNumber": "SE 600",
+        "courseName": "Senior Thesis I",
+        "Major": ["Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": [], "allof": ["CMPSC 580"] },
+
+        "unlocks": [],
+        "courseDescription": "",
+
+        "cslevel": "",
+        "dslevel": "",
+        "dsSub": "",
+        "inflevel": "",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+    },
+    {
+        "courseNumber": "SE 610",
+        "courseName": "Senior Thesis II",
+        "Major": ["Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": [], "allof": ["SE 600"] },
+
+        "unlocks": [],
+        "courseDescription": "Continuation of independent research in software engineering culminating in the development of and release of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+        "cslevel": "",
+        "dslevel": "",
+        "dsSub": "",
+        "inflevel": "",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+        },
+        {
+        "courseNumber": "CMPSC 404",
+        "courseName": "Senior Thesis I",
+        "Major": ["Software Engineering Major"],
+        "Minor": ["Software Engineering Minor"],
+
+        "credits": "4",
+        "distributionRequirements": ["QR","SP"],
+        "prerequisites": { "anyof": [], "allof": ["CMPSC 203","CMPSC 302"]},
+
+        "unlocks": [],
+        "courseDescription": "An exploration of technologies and data relationships which power modern web applications. Participating in hands-on activities which require teamwork, students build web applications that incorporate the full stack, including databases, application programming interfaces (APIs), and public-facing web pages or mobile applications. Students develop a broad knowledge of different development approaches, languages, and design paradigms to learn advantages and disadvantages of technologies and frameworks. During weekly laboratory sessions, students participate in iterative design processes and report progress and technical details through written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+        "cslevel": "",
+        "dslevel": "",
+        "dsSub": "",
+        "inflevel": "",
+        "infSub": "",
+        "selevel": "Core",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+    },
+    {
+        "courseNumber": "SE 610",
+        "courseName": "Senior Thesis II",
+        "Major": ["Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": [], "allof": ["SE 600"] },
+
+        "unlocks": [],
+        "courseDescription": "Continuation of independent research in software engineering culminating in the development of and release of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+        "cslevel": "",
+        "dslevel": "",
+        "dsSub": "",
+        "inflevel": "",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+        }
+    ]
+}
