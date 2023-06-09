@@ -220,7 +220,7 @@ const cardContainer = {
 const cardStyle = {
   width: 500,
   flexDirection: "column",
-  backgroundColor: "#FCC3B6",
+  background: "#white",
   border: 3,
   borderStyle: "solid",
   marginLeft: 10,
@@ -228,6 +228,12 @@ const cardStyle = {
   padding: 50,
   maxWidth: 500,
 };
+
+const cardStyle1 = {
+
+}
+
+
 
 // Define the component
 const AboutPage = () => {
@@ -341,7 +347,7 @@ const AboutPage = () => {
   );
 };
 
-function CourseCard(props) {
+function CourseCard1(props) {
   return (
     <div style={cardStyle}>
       <h2>Course Number: {props.courseNumber}</h2>
@@ -388,6 +394,22 @@ function CourseCard(props) {
     </div>
   );
 }
+
+
+function CourseCard(props) {
+  return (
+    <div class="card card-1">
+      <div class="card__icon"><i class="fas fa-bolt"></i></div>
+      <p class="card__exit"><i class="fas fa-times"></i></p>
+      <h2 class="card__title">CS 100: Computational Expression</h2>
+      <p class="card__apply">
+        <a class="card__link" href="#">Read more <i class="fas fa-arrow-right"></i></a>
+      </p>
+    </div>
+  );
+}
+
+
 
 export const Head = () => <title>Gator Planner</title>;
 

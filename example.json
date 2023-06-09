@@ -1,0 +1,61 @@
+
+{
+    "courses": [
+    {
+        "courseNumber": "DOUBL 600",
+        "courseName": "Sr Project I: Double Major",
+        "Major": ["Computer Science Major", "Data Science Major", "Informatics Major", "Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "1 to 4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": ["Instructor-approved 580 equivalent", "CMPSC 580"], "allof": [] },
+
+        "unlocks": [],
+        "courseDescription": "Continuation of independent research in software engineering culminating in the development of and release of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+        "cslevel": "Project",
+        "dslevel": "Project",
+        "dsSub": "",
+        "inflevel": "Project",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+    },
+    {
+        "courseNumber": "DOUBL 610",
+        "courseName": "Sr Project II: Double Major",
+        "Major": ["Computer Science Major", "Data Science Major", "Informatics Major", "Software Engineering Major"],
+        "Minor": [],
+
+        "credits": "1 to 4",
+        "distributionRequirements": [],
+        "prerequisites": { "anyof": [], "allof": ["DOUBL 600"] },
+
+        "unlocks": [],
+        "courseDescription": "Independent research in software engineering culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+        "cslevel": "Project",
+        "dslevel": "Project",
+        "dsSub": "",
+        "inflevel": "Project",
+        "infSub": "",
+        "selevel": "Project",
+
+        "topics": [],
+        "tools": [],
+
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+        }
+
+
+    ]
+}
