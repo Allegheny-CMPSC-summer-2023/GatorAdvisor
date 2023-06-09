@@ -1,4 +1,4 @@
-# GatorAdvisor (The name can change in the future)
+# GatorAdvisor
 
 ## Using pre-commit
 
@@ -12,9 +12,8 @@ pip install pre-commit
 
 ### 2. Install the git hook scripts for validating JSON
 
-
 ```
 pre-commit install
 ```
 
-#### Now pre-commit will run automatically on git commit!
+## Now pre-commit will run automatically on git commit!
