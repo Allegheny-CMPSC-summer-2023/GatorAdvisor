@@ -289,5 +289,267 @@
       "learningObjectives": [],
       "learningOutcomes": []
     },
+    {
+      "courseNumber": "CMPSC 105",
+      "courseName": "Data Exploration",
+      "Major": [
+        "Data Science Major"
+      ],
+      "Minor": [
+        "Data Science Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "QR",
+        "SP"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An introduction to the methods of collecting, exploring, transforming and visualizing data for storytelling. Often participating in team-based and hands-on activities, students learn how to use web platforms and dashboards to acquire, explore and investigate data to generate summarized key data insights using visual techniques. Students also apply open-source programming language to discover patterns in the data, test hypotheses, and check assumptions using graphical representations. During a weekly laboratory session, students employ cutting-edge software tools to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "",
+      "dslevel": "Foundation",
+      "dsSub": "",
+      "inflevel": "Foundation",
+      "infSub": "",
+      "selevel": "Foundation",
+      "topics": [
+        "Teamwork",
+        "Data Structures",
+        "Recursion"
+      ],
+      "tools": [
+        "Docker",
+        "GitHub",
+        "Git"
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 201",
+      "courseName": "Programming Languages",
+      "Major": [
+        "Data Science Major"
+      ],
+      "Minor": [
+        "Data Science Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "QR",
+        "SP"
+      ],
+      "prerequisites": {
+        "anyof": [
+          "CMPSC 101",
+          "CMPSC 102"
+        ],
+        "allof": []
+      },
+      "unlocks": [
+        "CMPSC 403",
+        "CMPSC 400"
+      ],
+      "courseDescription": "A study of the fundamental concepts that arise in different programming language paradigms. Students learn how programming languages are designed and implemented, and how these factors affect the overall usability, performance, and effectiveness of computer software. Participating in hands-on activities that often require teamwork, students gain experience in leveraging the styles and features of programming languages to implement and evaluate correct and efficient computer software. During a weekly laboratory session, students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "Foundation",
+      "dslevel": "Core",
+      "dsSub": "",
+      "inflevel": "Foundation",
+      "infSub": "",
+      "selevel": "Foundation",
+      "topics": [
+        "Language Design",
+        "Compiler vs Interpreter",
+        "Grammars & Scanning"
+      ],
+      "tools": [
+        "Bash",
+        "C",
+        "Prolog"
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 301",
+      "courseName": "Data Science",
+      "Major": [
+        "Data Science Major"
+      ],
+      "Minor": [
+        "Data Science Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "QR",
+        "PD"
+      ],
+      "prerequisites": {
+        "anyof": [
+          "CMPSC 101",
+          "CMPSC 102"
+        ],
+        "allof": []
+      },
+      "unlocks": [
+        "CMPSC 405"
+      ],
+      "courseDescription": "A study of computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to build predictive models with foundational machine learning algorithms to extract knowledge from various sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting machine learning techniques. During a weekly laboratory session, students use industry-grade open source statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "",
+      "dslevel": "Core",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [
+        "Statistical Analysis",
+        "Plotting",
+        "Ethics"
+      ],
+      "tools": [
+        "Docker",
+        "R",
+        "ggplot"
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 529",
+      "courseName": "Internship",
+      "Major": [
+        "Data Science Major"
+      ],
+      "Minor": [
+        "Data Science Minor"
+      ],
+      "credits": "1-4",
+      "distributionRequirements": [],
+      "prerequisites": {
+        "anyof": [
+          "permission from the instructor"
+        ],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "Academic study completed in support of an internship experience with a partner institution. An Allegheny faculty member assigns and evaluates the academic work done by the student. May be repeated for credit. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [
+        "intern"
+      ],
+      "tools": [
+        "GitHub",
+        "Git"
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 101",
+      "courseName": "Data Abstraction",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "QR",
+        "SP"
+      ],
+      "prerequisites": {
+        "anyof": [
+          "CMPSC 100",
+          "permission of the instructor."
+        ],
+        "allof": []
+      },
+      "unlocks": [
+        "CMPSC 201",
+        "CMPSC 202",
+        "CMPSC 203",
+        "CMPSC 301",
+        "CMPSC 303",
+        "CMPSC 304",
+        "CMPSC 305",
+        "CMPSC 350"
+      ],
+      "courseDescription": "An exploration of technologies and data relationships which power modern web applications. Participating in hands-on activities which require teamwork, students build web applications that incorporate the full stack, including databases, application programming interfaces (APIs), and public-facing web pages or mobile applications. Students develop a broad knowledge of different development approaches, languages, and design paradigms to learn advantages and disadvantages of technologies and frameworks. During weekly laboratory sessions, students participate in iterative design processes and report progress and technical details through written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "Foundation",
+      "dslevel": "Foundation",
+      "dsSub": "",
+      "inflevel": "Foundation",
+      "infSub": "",
+      "selevel": "Foundation",
+      "topics": [
+        "Teamwork",
+        "Data Structures",
+        "Recursion"
+      ],
+      "tools": [
+        "Docker",
+        "GitHub",
+        "Git"
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 304",
+      "courseName": "Robotic Agents",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "CL",
+        "QR"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "CMPSC 101",
+          "CMPSC 102"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "A study of the design and implementation of autonomous software agents and robotic systems that cooperatively complete complex tasks. In addition to examining techniques for large-scale coordination and group-based decision-making, students learn how to apply the field's technologies to address the challenges facing local and global communities. Participating in hands-on activities that often require teamwork, students develop and evaluate several multi-agent or multi-robot systems, while also reflecting on the civic issues surrounding the use of these systems. During a weekly laboratory session students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "Elective",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "",
+      "selevel": "",
+      "topics": [
+        "Robot Autonomy",
+        "Code Review",
+        "Human-Robot Interaction"
+      ],
+      "tools": [
+        "LeJOS",
+        "Drones",
+        "Python"
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    }
   ]
 }
