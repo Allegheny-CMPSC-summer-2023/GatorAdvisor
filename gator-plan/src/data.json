@@ -550,6 +550,74 @@
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 350",
+      "courseName": "Computational Narrative",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE",
+        "ME"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "CMPSC 101"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "A study of the craft and deployment of procedurally-generated digital narratives, placing an emphasis on using data sources and computational methods as storytelling media. Students focus on critical, close reading of professional and student works while completing a single long-form work of their own. Topics include natural language processing (NLP), procedural illustration, computational constraint, and the development of conceptual documentary works.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Core",
+      "infSub": "",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 406",
+      "courseName": "Internet Of Things",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "SP",
+        "SB"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "CMPSC 200"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "An introduction to small-scale, purpose-built physical computational objects which embed sensors, integrate with networks, and process environmental signals. Exploring various industrial architectures, students develop devices that respond to physical stimuli and transmit data across networks to motivate additional device behavior and interactivity while considering human interaction design (HID) and “people-centered” principles that drive device design. During weekly laboratory sessions, students complete projects which focus on industry standards of data transmission and privacy in addition to optimizing device performance for real-time, high-availability applications. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "Elective",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
     }
   ]
 }
