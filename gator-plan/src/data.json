@@ -1,4 +1,5 @@
 {
+  "//": "Computer Science/Informatics/Informatics/Data Science Course Catalog",
   "courses": [
     {
       "courseNumber": "CMPSC 100",
@@ -287,6 +288,6 @@
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
-    }
+    },
   ]
 }
