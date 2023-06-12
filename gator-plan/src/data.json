@@ -991,6 +991,585 @@
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 360",
+      "courseName": "Language, Theory, and Practice",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "SP",
+        "SB"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "A course that explores how language, reading, and writing operate as historical cultural practices, as subjects of theoretical study, and as effective contemporary communication. The emphasis of the course vary, depending on the instructor. Topics may include the cultural history of the English language, twentiethcentury literary and critical theory, and modes of communication in the digital age. May be repeated for credit",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "HIST 170",
+      "courseName": "Introduction to Public History",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "CL",
+        "SB"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An introduction to the theory and practice of public history, a collaborative approach to history that emphasizes inter-disciplinary methodology, oral history, and a variety of presentation formats to present historical projects that interact with audiences in the public sector. Through readings, discussions, viewing of films and documentaries, and field trips to museums and historic sites, students examine issues that confront historians working in public settings. Students work with specific archives and/or groups at Allegheny or elsewhere to create and and publish digital story-telling projects intended to connect individual experience and community needs to larger movements and ideologies.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "PHIL 140",
+      "courseName": "Ethics and Community",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "PD",
+        "CL"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An examination of contemporary challenges facing democracy as an ideal for the moral life and the moral community.",
+      "cslevel": "",
+      "dslevel": "Core",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "RELST 180",
+      "courseName": "Religion in American Life",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE",
+        "SB"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+      
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "A social history of Protestant, Catholic, and non-Christian groups in the U.S. context; the role of women and African Americans in various religions is included along with the emergence of sects and denominations, and the religious faiths of immigrant and ethnic populations. The course examines the inherent tension between the Protestant mainstream and the religious diversity resulting from the First Amendment guarantee of religious freedom.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "RELST 200",
+      "courseName": "Christian Ethics",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "PD",
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "CMPSC 200"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "An introduction to the study of Christian ethics considered within an ecumenical framework and across the broad span of the history of theology. Focusing on the primary issues that arise for any ethic that is identifiably Christian, this inquiry also involves learning to analyze and construct moral arguments. This course counts toward the VESA and Science, Health, and Society minors.",
+      "cslevel": "",
+      "dslevel": "Core",
+      "dsSub": "Ethics",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "RELST 341",
+      "courseName": "Jewish Ethics",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "PD",
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "A study of the Jewish ethical tradition from ancient times to the present with a focus on how this tradition is applied to the key ethical issues of our time. We will examine the diverse perspectives within Judaism on a variety of topics including race, sexuality, gender, economic justice, bioethics, medical ethics, environmental ethics, animal welfare, criminal justice, and immigration..",
+      "cslevel": "",
+      "dslevel": "Core",
+      "dsSub": "Ethics",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENVSC 285",
+      "courseName": "Quantitative Sustainability",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "SP",
+        "QR"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "ENVSC 110"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "A survey of environmental issues from a quantitative perspective in order to expose students to mathematical tools used in the environmental sciences. Students are asked to make recommendations on issues surrounding climate change, pollution, ecosystem health, land use, population growth, natural resource management, and other current environmental issues. In the process of investigating these topics, students develop a mathematical toolkit for carrying out a variety of calculations, understanding uncertainty, interpreting data, and developing mathematical models to describe economic, social, and environmental systems. .",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Geoinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENVSC 305 ",
+      "courseName": "Environmental GIS I",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "CL",
+        "QR"
+      ],
+      "prerequisites": {
+        "anyof": [
+          "permission from the instructor",
+          "ENVSC 110"
+        ],
+        "allof": []
+      },
+      "unlocks": [
+        "ENVSC 306"
+      ],
+      "courseDescription": "An interdisciplinary examination of the theory and techniques used in the mapping and geographic analysis of environmental problems. Environmental research increasingly depends on the ability to gather, analyze, and present spatial data using geographic information systems (GIS). Students are introduced to the use of geospatial technologies through the analysis of environmental case studies. Topics include: vector and raster data models, map registration and coordinate systems, database design, data entry, and editing, GPS data collection, aerial and satellite imagery data sources, query, visualization, and spatial analysis, and cartography. The class includes a weekly three-hour laboratory..",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Geoinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENVSC 306",
+      "courseName": "Environmental GIS II",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "CL",
+        "QR"
+      ],
+      "prerequisites": {
+        "anyof": [
+          "permission from the instructor",
+          "ENVSC 305"
+        ],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An interdisciplinary examination of the theory and techniques used in the advanced mapping and geographic analysis of environmental problems. Students design, execute, and present a semester-long, independent research project whose primary research tool is geographic information systems (GIS) and related technologies. Students are also exposed to advanced topics in GIS including raster-based map algebra, spatial estimation, weighted and fuzzy overlay, network and terrain analysis, modeling and scripting, and data standards and quality. The class includes a weekly three-hour laboratory.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Geoinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "GEO 110",
+      "courseName": "Physical Geology",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "SP",
+        "QR"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "GEO-109"
+        ]
+      },
+      "unlocks": [
+        "GEO 250",
+        "GEO 380",
+        "GEO 240",
+        "GEO 310",
+        "GEO 215",
+        "GEO 120",
+        "GEO 400",
+        "GEO 410"
+      ],
+      "courseDescription": "The study of Earth properties and the dynamics of geologic systems to provide a basic understanding of the resources, environments, and evolution of our planet. The course considers Earth materials, interior structure of the planet, Earth surface processes, landform development, environmental geology, and physical evolution of the Earth. Specific topics include minerals and rocks, plate tectonics, ocean basins, continents, river and groundwater systems, glaciers, volcanism and earthquakes. Laboratory or field work, one period. May be taken after successful completion of Geology 109.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Geoinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "GHS 228",
+      "courseName": "Global Health Data ",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "SP",
+        "QR"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An exploration of publicly available quantitative data related to global health and development from individuals, families, and countries around the world. Students learn how to find, organize, and visualize publicly available data, as well as practice database management, merging, documentation, and visualization with an emphasis on data equity and on the underlying processes by which data are generated by various agencies and organizations. Students investigate the benefits and drawbacks of using publicly available data and gain skills to prepare for independent data analysis",
+      "cslevel": "",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Health Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "GHS 235",
+      "courseName": "Global Health Ethics",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "PD"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          " GHS 130"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "An introductory ethical study of global health inequalities and our responses to them. Topics include health, justice, and human rights; moral responsibility in global health contexts; power, poverty, and health; ethics and global health governance; the ethics of international medical research; global inequities in access to medical resources; and specific health injustices associated with culture, race, and gender.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Health Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "GHS 321",
+      "courseName": "Epidemiology",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "SP",
+        "QR"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "GHS 130 ",
+          "FSGHS 201"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "An opportunity to apply epidemiological data to both global health policy and practice, focusing on the determinants of health and patterns and distributions of disease. Topics include the philosophical and ethical dimensions of epidemiology, historical origins, types of study designs, data types and interpretation, and differences between causation and association. Students may not receive credit for both GHS*321 and BIO*321. Credit: Four semester hours",
+      "cslevel": "",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Health Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "GHS 354",
+      "courseName": " Medical Anthro/Health in Asia",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "IP"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "Medical Anthropology and Perspectives of Health in Asia-Pacific -- An examination of ethnographic research on health and illness in Asia and the Pacific. Students consider non-western perspectives of health, illness, and bodies through reading medical anthropology works. Topics include infectious disease, chronic disease, addiction, commodification of bodily processes and components, illness related to food and water, and mental health in cultural context. Students learn to draw connections between the health of individuals, population health, and policies created by governing bodies while also developing a sense of how medical anthropological data are interpreted and written.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Health Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "HIST 380",
+      "courseName": "Disease/Medicine:Modern History",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "PD",
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "permission of the instructor",
+          "One course in US or European history"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "An introduction to small-scale, purpose-built physical computational objects which embed sensors, integrate with networks, and process environmental signals. Exploring various industrial architectures, students develop devices that respond to physical stimuli and transmit data across networks to motivate additional device behavior and interactivity while considering human interaction design (HID) and “people-centered” principles that drive device design. During weekly laboratory sessions, students complete projects which focus on industry standards of data transmission and privacy in addition to optimizing device performance for real-time, high-availability applications. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Health Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "PHIL 385",
+      "courseName": "Medical Ethics",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "SP",
+        "CL"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "Not open to first-year students."
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "A study of the principles of medical ethics as applied to case studies. After studying the nature and foundations of the principles of medical ethics, students present oral and written analyses of medical cases that pose significant ethical issues.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Health Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "COMM 342",
+      "courseName": "Digital Media and Technology ",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "PD",
+        "SB"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An examination of the impacts of digital and social media on online and material cultures. Students explore the role of media technologies in everyday life, focusing particularly on how they shape identities, cultures, and practices. Topics include but are not limited to: the power of media technology industries, built-in biases and privacy issues in artificial intelligence and big data, the normalizing of surveillance, technological innovation and creative activism, and technology as a tool for liberation and oppression.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Core",
+      "infSub": "",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
     }
   ]
 }
