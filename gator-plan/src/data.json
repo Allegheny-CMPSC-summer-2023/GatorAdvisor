@@ -561,12 +561,12 @@
         "Informatics Minor"
       ],
       "credits": "4",
-      "distributionRequirements": [
+      "": [
         "HE",
         "ME"
       ],
       "prerequisites": {
-        "anyo": [],
+        "anyof": [],
         "allof": [
           "CMPSC 101"
         ]
