@@ -561,7 +561,7 @@
         "Informatics Minor"
       ],
       "credits": "4",
-      "": [
+      "distributionRequirements": [
         "HE",
         "ME"
       ],
