@@ -618,6 +618,379 @@
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ART 251",
+      "courseName": "Contemporary Art Writing",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE",
+        "PD"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ART 287"
+      ],
+      "courseDescription": "A study of modern and contemporary art through the lens of art writing. This course builds the research-based skills and visual literacy necessary for art writing--a rigorous but creative process of knowledge production. Art writers mobilize art in the service of broader cultural conversations to address social and political challenges, from race and gender equity to climate change. Students read and practice discipline-specific writing, and they also focus on interdisciplinary authors who posit art as a model of political resistance. Along with foundational writing skills, this course promotes proficiency in the visual and written language of contemporary art",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Core",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ART 343",
+      "courseName": "Feminist Art Histories",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE",
+        "PD"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An examination of the impact of feminism and feminist theory on visual culture from the 1960s to today, with select pre-1960s material as background. Visual culture encompasses academic Art History, but also popular spaces of representation including film, music, and television. Students learn how feminist cultural producers address systemic inequalities of gender, race, and class. Recognizing that categories of gender and sexuality are constructed differently across cultures, this course takes a transnational approach. There is focus on the intersections of feminism and post-human studies and the impact of new technology and climate on contemporary feminism, queer theory, and their art.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 110",
+      "courseName": "Intro to Literary Studies",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 111",
+      "courseName": "Literature and the Arts",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 112",
+      "courseName": "Literature and the Body",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 113",
+      "courseName": "Literature and Race",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE",
+        "PD"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 114",
+      "courseName": "Literature and Business",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 115",
+      "courseName": "Literature and Sexuality",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 116",
+      "courseName": "Literature and the Environment",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 117",
+      "courseName": "Literature and Science",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ENGL 118",
+      "courseName": "Literature and the Mind",
+      "Major": [
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "ENGL 210",
+        "ENGL 360"
+      ],
+      "courseDescription": "A course in the close reading of literary texts. Through the study of multiple genres of literary works, students develop their ability to read carefully and to understand the relationship between literary texts and a range of historical and/or literary contexts. The course also introduces students to some of the terms and critical approaches necessary for further literary study.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Humanities Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
     }
   ]
 }
