@@ -31,4 +31,4 @@ jobs:
       run: pip install check-jsonschema
     
     - name: Run check-jsonschema
-      run: check-jsonschema --schemafile config-schema.json gator-plan/src/*data.json
+      run: check-jsonschema --schemafile config-schema.json data.json
