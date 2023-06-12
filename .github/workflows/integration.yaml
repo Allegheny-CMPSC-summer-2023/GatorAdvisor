@@ -1,4 +1,4 @@
-name: My Worklow
+name: My Workflow
 
 on: [push, pull_request]
 
@@ -31,4 +31,4 @@ jobs:
       run: pip install check-jsonschema
     
     - name: Run check-jsonschema
-      run: check-jsonschema --schema config-schema.json
+      run: check-jsonschema --schemafile config-schema.json
