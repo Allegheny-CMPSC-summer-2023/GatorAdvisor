@@ -1805,6 +1805,41 @@
       "learningOutcomes": []
     },
     {
+      "courseNumber": "FILM 375",
+      "courseName": "Documentary Traditions",
+      "Major": [
+        "Data Science Major"
+      ],
+      "Minor": [
+        "Data Science Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "CL",
+        "HE"
+      ],
+      "prerequisites": {
+        "anyof": [
+        ],
+        "allof": []
+      },
+      "unlocks": [
+      
+      ],
+      "courseDescription": "An exploration of the development and impact of the documentary genre in film and television. Students are exposed to films that probe a social, economic, or political issue. The written analysis and discussion of the films screened emphasizes process, style, and historical perspective. Students produce their own documentary in video as their major project for the course.",
+      "cslevel": "",
+      "dslevel": "Core",
+      "dsSub": "",
+      "inflevel": "Core",
+      "infSub": "Methods",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    }
+    {
       "courseNumber": "ECON 203",
       "courseName": "Economic Statistics II",
       "Major": [
