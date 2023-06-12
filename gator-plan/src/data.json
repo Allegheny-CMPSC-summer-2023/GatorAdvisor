@@ -1060,10 +1060,10 @@
       "courseNumber": "PHIL 140",
       "courseName": "Ethics and Community",
       "Major": [
-        "Informatics Major"
+        "Data Science Major"
       ],
       "Minor": [
-        "Informatics Minor"
+        "Data Science Minor"
       ],
       "credits": "4",
       "distributionRequirements": [
@@ -1126,10 +1126,10 @@
       "courseNumber": "RELST 200",
       "courseName": "Christian Ethics",
       "Major": [
-        "Informatics Major"
+        "Data Science Major"
       ],
       "Minor": [
-        "Informatics Minor"
+        "Data Science Minor"
       ],
       "credits": "4",
       "distributionRequirements": [
@@ -1160,10 +1160,10 @@
       "courseNumber": "RELST 341",
       "courseName": "Jewish Ethics",
       "Major": [
-        "Informatics Major"
+        "Data Science Major"
       ],
       "Minor": [
-        "Informatics Minor"
+        "Data Science Minor"
       ],
       "credits": "4",
       "distributionRequirements": [
