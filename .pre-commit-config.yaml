@@ -21,4 +21,4 @@ repos:
       - id: check-jsonschema
         name: Validate JSON schema
         args: ["--schemafile", "config-schema.json"]
-        files: ^gator-plan/src/example\.json$
+        files: ^gator-plan/src/data\.json$
