@@ -16,19 +16,24 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-  check-json-schema:
+name: AJV Validation
+on: [push, pull_request]
+
+jobs:
+  ajv:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
     
-    - name: Set up Python
-      uses: actions/setup-python@v2
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
       with:
-        python-version: '3.x'
+        node-version: '14'
     
-    - name: Install check-jsonschema
-      run: pip install check-jsonschema
+    - name: Install dependencies
+      run: npm install -g ajv-cli
     
-    - name: Run check-jsonschema
-      run: check-jsonschema --schemafile config-schema.json gator-plan/src/data.json
+    - name: Run AJV validation
+      run: ajv validate -s config-schema.json -d gator-plan/src/data.json
+
