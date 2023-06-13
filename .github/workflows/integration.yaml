@@ -15,9 +15,20 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
+  JSON-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Lint JSON files
+      run: |
+        npm install -g jsonlint
+        jsonlint gator-plan/src/data.json
+
   ajv:
-    name: AJV Validation
+    name: AJV JS file Validation
     runs-on: ubuntu-latest
 
     steps:
@@ -50,3 +61,17 @@ jobs:
     
     - name: Run check-jsonschema
       run: check-jsonschema --schemafile config-schema.json gator-plan/src/data.json
+
+
+  prettier:
+    name: Prettier
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.3
+        with:
+          prettier_options: --write **/*.{md,json,js}
