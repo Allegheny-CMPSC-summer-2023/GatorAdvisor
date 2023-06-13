@@ -16,24 +16,21 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-name: AJV Validation
-on: [push, pull_request]
-
-jobs:
   ajv:
+    name: AJV Validation
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
     
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
     
-    - name: Install dependencies
-      run: npm install -g ajv-cli
+      - name: Install dependencies
+        run: npm install -g ajv-cli
     
-    - name: Run AJV validation
-      run: ajv validate -s config-schema.json -d gator-plan/src/data.json
+      - name: Run AJV validation
+        run: ajv validate -s config-schema.json -d gator-plan/src/data.json
 
