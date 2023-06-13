@@ -34,3 +34,19 @@ jobs:
       - name: Run AJV validation
         run: ajv validate -s config-schema.json -d gator-plan/src/data.json
 
+  check-schema:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install check-jsonschema
+      run: pip install check-jsonschema
+    
+    - name: Run check-jsonschema
+      run: check-jsonschema --schema config-schema.json --instances gator-plan/src/data.json
