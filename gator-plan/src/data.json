@@ -1,5 +1,4 @@
 {
-  "//": "Computer Science/Software Engineering/Informatics/Data Science Course Catalog",
   "courses": [
     {
       "courseNumber": "CMPSC 100",
@@ -256,6 +255,71 @@
       "learningOutcomes": []
     },
     {
+      "courseNumber": "CMPSC 203",
+      "courseName": "Software Engineering",
+      "Major": [
+        "Software Engineering Major"
+      ],
+      "Minor": [
+        "Software Engineering Major"
+      ],
+      "distributionRequirements": [
+        "SB",
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [
+        "CMPSC 404",
+        "CMPSC 580"
+      ],
+      "courseDescription": "A human-centric study of the principles used during the engineering of high-quality software systems. In addition to examining the human behaviors and social processes undergirding software development methodologies, students participate in teams tasked with designing, developing, and delivering a significant software application for a customer. During a weekly laboratory session, students use state-of-the-art software engineering, management, and communication tools to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "core",
+      "topics": [
+        "Project Management",
+        "Unit Testing",
+        "Debugging",
+        "Teamwork",
+        "Integration Testing",
+        "Fault Localization",
+        "Version Control Systems",
+        "Implementation",
+        "Linting",
+        "Technical Writing",
+        "Software Design",
+        "Static Analysis",
+        "Performance Assessment",
+        "Coverage Testing",
+        "Dynamic Analysis",
+        "Professional Communication",
+        "Open Source Software",
+        "User Studies",
+        "Flow of Control",
+        "Software Testing",
+        "Code Review",
+        "Requirements Gathering",
+        "Mutation Testing"
+      ],
+      "tools": [
+        "Git",
+        "GitHub",
+        "Markdown",
+        "pytest",
+        "Python"
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
       "courseNumber": "CMPSC 204",
       "courseName": "Theoretical Machines",
       "Major": [
@@ -285,6 +349,61 @@
       "selevel": "",
       "topics": [],
       "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 300",
+      "courseName": "Bioinformatics",
+      "Major": [
+        "Computer Science Major",
+        "Data Science Major",
+        "Informatics Major"
+      ],
+      "Minor": [
+        "Informatics Minor"
+      ],
+      "distributionRequirements": [
+        "QR",
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+          "CMPSC 100",
+          "BIO 221",
+          "FSBIO 201"
+        ],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An introduction to the development and application of methods, from the computational and information sciences, for the investigation of biological phenomena. In this interdisciplinary course, students integrate computational techniques with biological knowledge to develop and use analytical tools for extracting, organizing, and interpreting information from genetic sequence data. Often participating in team-based and hands-on activities, students implement and apply useful bioinformatics algorithms. During a weekly laboratory session students employ cutting-edge software tools and programming environments to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "elective",
+      "dslevel": "elective",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Health Informatics",
+      "selevel": "",
+      "topics": [
+        "Ethics",
+        "Sequence Alignment",
+        "Code Review",
+        "Philosophy of Biology",
+        "Databases",
+        "Mathematical Programming",
+        "Genetic Mutation",
+        "Bioinformatics",
+        "Gene Prediction",
+        "Data Modeling"
+      ],
+      "tools": [
+        "BLAST",
+        "UniProt",
+        "Docker",
+        "GatorGrader",
+        "GitHub"
+      ],
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
@@ -581,6 +700,66 @@
       "selevel": "",
       "topics": [],
       "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "CMPSC 400",
+      "courseName": "Operating Systems",
+      "Major": [
+        "Computer Science Major",
+        "Software Engineering Major"
+      ],
+      "Minor": [
+        "Computer Science Minor",
+        "Software Engineering Minor"
+      ],
+      "credits": "4",
+      "distributionRequirements": [
+        "QR",
+        "SP"
+      ],
+      "prerequisites": {
+        "anyof": [
+          "CMPSC 200",
+          "CMPSC 201"
+        ],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "A study of the principles used in the design, implementation, and evaluation of operating systems. Participating in hands-on activities that often require teamwork, students create and assess components of an operating system that runs on modern computer hardware. Leveraging insights and tools from an industry partner, students also investigate the resource management, process scheduling, and file systems used in representative operating systems. During a weekly laboratory session students use advanced operating systems software to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+      "cslevel": "Core",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Elective",
+      "infSub": "",
+      "selevel": "",
+      "topics": [
+        "Teamwork",
+        "Shells",
+        "Interfaces - User Experience",
+        "Version Control Systems",
+        "Operating Systems",
+        "Race Conditions",
+        "Technical Writing",
+        "Kernels",
+        "Binaries",
+        "Memory Management",
+        "Interfaces - Devices",
+        "Code Review",
+        "Multithreading",
+        "CPUs",
+        "Semaphores",
+        "Low-level Languages"
+      ],
+      "tools": [
+        "Docker",
+        "GCC",
+        "Github",
+        "GatorGrader",
+        "Discord"
+      ],
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
@@ -1104,9 +1283,7 @@
       ],
       "prerequisites": {
         "anyof": [],
-        "allof": [
-
-        ]
+        "allof": []
       },
       "unlocks": [],
       "courseDescription": "A social history of Protestant, Catholic, and non-Christian groups in the U.S. context; the role of women and African Americans in various religions is included along with the emergence of sects and denominations, and the religious faiths of immigrant and ethnic populations. The course examines the inherent tension between the Protestant mainstream and the religious diversity resulting from the First Amendment guarantee of religious freedom.",
@@ -1172,9 +1349,7 @@
       ],
       "prerequisites": {
         "anyof": [],
-        "allof": [
-
-        ]
+        "allof": []
       },
       "unlocks": [],
       "courseDescription": "A study of the Jewish ethical tradition from ancient times to the present with a focus on how this tradition is applied to the key ethical issues of our time. We will examine the diverse perspectives within Judaism on a variety of topics including race, sexuality, gender, economic justice, bioethics, medical ethics, environmental ethics, animal welfare, criminal justice, and immigration..",
@@ -1819,13 +1994,10 @@
         "HE"
       ],
       "prerequisites": {
-        "anyof": [
-        ],
+        "anyof": [],
         "allof": []
       },
-      "unlocks": [
-      
-      ],
+      "unlocks": [],
       "courseDescription": "An exploration of the development and impact of the documentary genre in film and television. Students are exposed to films that probe a social, economic, or political issue. The written analysis and discussion of the films screened emphasizes process, style, and historical perspective. Students produce their own documentary in video as their major project for the course.",
       "cslevel": "",
       "dslevel": "Core",
