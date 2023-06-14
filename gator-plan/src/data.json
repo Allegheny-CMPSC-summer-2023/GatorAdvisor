@@ -2237,6 +2237,174 @@
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
+    },
+    {
+      "courseNumber": "BIO 321",
+      "courseName": "Epidemiology",
+      "Major": [
+        "Computer Science Major"
+      ],
+      "Minor": [
+        "Computer Science Minor"
+      ],
+      "distributionRequirements": [
+        "QR",
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+          "BIO 219",
+          "BIO 220"
+        ],
+        "allof": [
+          "BIO 221",
+          "FSBIO 201"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "A study of the determinants and distributions of disease that will culminate in the design and application of an epidemiological study. This course will also provide students with an introduction to the science of epidemiology, including its historical origins, main concepts, and methodological approaches. Topics to be covered include data types and interpretation, differences in study design approaches, and the differences between association and causation.",
+      "cslevel": "",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "GHS 223",
+      "courseName": "People & Poisons",
+      "Major": [],
+      "Minor": [],
+      "distributionRequirements": [
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "People & Poisons: Foundations of Public Health Toxicology -- An interdisciplinary introduction to the science of toxicology and its application to the study of human health. This course traces the biologic processes involved in the absorption, distribution, biotransformation, and excretion of toxic substances within the human body. Toxicology is an essential component of a wide array of efforts to improve health, informing everything from environmental policy, to risk assessments for particular communities, to industry and legal guidelines for determining thresholds of exposure for hazardous substances--whether those substances are found in our food, water, construction materials, or even toys.",
+      "cslevel": "",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "ECON 241",
+      "courseName": "Behavioral Economics",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "QR",
+        "SB"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          "ECOM 100"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "An introduction to behavioral economics, which uses insights from psychology, political science, anthropology, management and experimental data to improve understanding of traditional economic models of behavior. Behavioral economics considers the ways that people are more social, more impulsive, less adept at using information, and more susceptible to biases than the standard economic models assume. The course gives an overview of key insights from behavioral science and identifies ways in which these findings have been used to advance policies on education, health, energy, taxation, and more. A major goal is to understand how predictions of economic models change when phenomena such as altruism, loss aversion, and self-control problems are considered. Classroom games and experiments will be used to explain observed behaviors, in addition to standard and behavioral models..",
+      "cslevel": "",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "PSYCH 307",
+      "courseName": "Intermediate Statistics",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "QR",
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+          "PSYCH 207",
+          "ECON 202",
+          "BIO 385",
+          "MATH 345"
+        ],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "A continuation of topics discussed in introductory statistics courses. Topics include, but are not limited to, simple effect tests for interactions, False Discovery Rate, linear and polynomial regression analyses, coding for multicategorical predictor variables, and mediation (simple, parallel, and serial) and moderation. In addition, we will compare and contrast Frequentist and Bayesian inference and learn how to conduct basic Bayesian analyses. The course emphasizes close readings of peer reviewed publications and analyzing and reporting data using the JASP statistical package. This course is recommended for students interested in going to graduate school for psychology/other research disciplines or for those who wish to go into careers doing data analytics or research.",
+      "cslevel": "",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "PSYCH 207",
+      "courseName": "Statistical Methods in Psychology",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "QR",
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An introduction to using electronic technologies/software and digital media as art-making tools. Emphasis on awareness of the elements of 2D design/composition and the vocabulary used to describe it. Coursework integrates effective oral and written communication to explore contemporary and historical practices within the medium and the role of electronic art in human experience. This course emphasizes the development of skills with a focus on technique, contemporary and historical issues, and conceptual development.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
     }
   ]
 }
