@@ -2119,11 +2119,11 @@
       "courseName": "Foundations of Mathematics",
       "Major": [
         "Computer Science Major"
-       
+
       ],
       "Minor": [
         "Computer Science Minor"
-        
+
       ],
       "distributionRequirements": [
         "ME",
@@ -2137,7 +2137,7 @@
         ]
       },
       "unlocks": [
-        
+
         "MATH 320"
       ],
       "courseDescription": "An introduction to concepts encountered in the study of abstract mathematics. Topics covered include logic, mathematical proofs, set theory, relations, functions, mathematical induction, and introductory number theory. The concepts of injectivity, surjectivity, and inverses will be discussed as well as elementary computional tools such as the Division Algorithm and Euclid's algorithm for the greatest common divisor. Additional topics may include cardinality, combinatorics, graph theory, algebraic structure, the real number system, and concepts of mathematical analysis.",
@@ -2148,10 +2148,10 @@
       "infSub": "",
       "selevel": "",
       "topics": [
-        
+
       ],
       "tools": [
-       
+
       ],
       "lab": [],
       "learningObjectives": [],
@@ -2162,14 +2162,14 @@
       "courseName": "Probability and Statistical Inference II",
       "Major": [
         "Computer Science Major"
-       
+
       ],
       "Minor": [
         "Computer Science Minor"
-       
+
       ],
       "distributionRequirements": [
-        
+
         "SP"
       ],
       "credits": "4",
@@ -2180,7 +2180,7 @@
         ]
       },
       "unlocks": [
-       
+
       ],
       "courseDescription": "A continuation of MATH*345 treating the testing of hypotheses and goodness of fit, small sample techniques, statistical design, non-parametric methods and sequential analysis. ",
       "cslevel": "",
@@ -2190,10 +2190,10 @@
       "infSub": "",
       "selevel": "",
       "topics": [
-        
+
       ],
       "tools": [
-       
+
       ],
       "lab": [],
       "learningObjectives": [],
@@ -2215,11 +2215,11 @@
       "prerequisites": {
         "anyof": ["MATH*205"," MATH 210","MATH*211","MATH 270"," MATH 280"],
         "allof": [
-          
+
         ]
       },
       "unlocks": [
-       
+
       ],
       "courseDescription": "A study of vector spaces, linear transformations, matrices, determinants, systems of linear equations, similarity, and characteristic values and vectors. This course may be applied toward the mathematics requirement for a Computer Science major.",
       "cslevel": "",
@@ -2229,10 +2229,10 @@
       "infSub": "",
       "selevel": "",
       "topics": [
-        
+
       ],
       "tools": [
-       
+
       ],
       "lab": [],
       "learningObjectives": [],
@@ -2405,6 +2405,277 @@
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
-    }
+    },
+    {
+      "courseNumber": "DOUBL 600",
+      "courseName": "Sr Project I: Double Major",
+      "Major": ["Computer Science Major", "Data Science Major", "Informatics Major", "Software Engineering Major"],
+      "Minor": [],
+
+      "credits": "1 to 4",
+      "distributionRequirements": [],
+      "prerequisites": { "anyof": ["Instructor-approved 580 equivalent", "CMPSC 580"], "allof": [] },
+
+      "unlocks": ["DOUBL 600"],
+      "courseDescription": "Continuation of independent research in software engineering culminating in the development of and release of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+      "cslevel": "Project",
+      "dslevel": "Project",
+      "dsSub": "",
+      "inflevel": "Project",
+      "infSub": "",
+      "selevel": "Project",
+
+      "topics": [],
+      "tools": [],
+
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+  },
+  {
+      "courseNumber": "DOUBL 610",
+      "courseName": "Sr Project II: Double Major",
+      "Major": ["Computer Science Major", "Data Science Major", "Informatics Major", "Software Engineering Major"],
+      "Minor": [],
+
+      "credits": "1 to 4",
+      "distributionRequirements": [],
+      "prerequisites": { "anyof": [], "allof": ["DOUBL 600"] },
+
+      "unlocks": [],
+      "courseDescription": "Independent research in software engineering culminating in the development of a prototype or early draft of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+      "cslevel": "Project",
+      "dslevel": "Project",
+      "dsSub": "",
+      "inflevel": "Project",
+      "infSub": "",
+      "selevel": "Project",
+
+      "topics": [],
+      "tools": [],
+
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+  },
+  {
+      "courseNumber": "SE 600",
+      "courseName": "Senior Thesis I",
+      "Major": ["Software Engineering Major"],
+      "Minor": [],
+
+      "credits": "4",
+      "distributionRequirements": [],
+      "prerequisites": { "anyof": [], "allof": ["CMPSC 580"] },
+
+      "unlocks": ["SE 610"],
+      "courseDescription": "",
+
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "Project",
+
+      "topics": [],
+      "tools": [],
+
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+  },
+  {
+      "courseNumber": "SE 610",
+      "courseName": "Senior Thesis II",
+      "Major": ["Software Engineering Major"],
+      "Minor": [],
+
+      "credits": "4",
+      "distributionRequirements": [],
+      "prerequisites": { "anyof": [], "allof": ["SE 600"] },
+
+      "unlocks": [],
+      "courseDescription": "Continuation of independent research in software engineering culminating in the development of and release of a computational artifact. Must be taken on the letter-grade basis. Must be taken on the letter-grade basis. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "Project",
+
+      "topics": [],
+      "tools": [],
+
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+      },
+      {
+      "courseNumber": "CMPSC 404",
+      "courseName": "Web Applications",
+      "Major": ["Software Engineering Major"],
+      "Minor": ["Software Engineering Minor"],
+
+      "credits": "4",
+      "distributionRequirements": ["QR","SP"],
+      "prerequisites": { "anyof": [], "allof": ["CMPSC 203","CMPSC 302"]},
+
+      "unlocks": [],
+      "courseDescription": "An exploration of technologies and data relationships which power modern web applications. Participating in hands-on activities which require teamwork, students build web applications that incorporate the full stack, including databases, application programming interfaces (APIs), and public-facing web pages or mobile applications. Students develop a broad knowledge of different development approaches, languages, and design paradigms to learn advantages and disadvantages of technologies and frameworks. During weekly laboratory sessions, students participate in iterative design processes and report progress and technical details through written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "Core",
+
+      "topics": ["APIs", "HTTP/S", "SSL", "Databases", "TCP/IP"],
+      "tools": ["PHP", "React", "Javascript", "Nodejs", "HTML", "CSS"],
+
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+  },
+  {
+      "courseNumber": "CMPSC 580",
+      "courseName": "Junior Seminar",
+      "Major": ["Computer Science Major", "Data Science Major", "Informatics Major", "Software Engineering Major"],
+      "Minor": [],
+
+      "credits": "4",
+      "distributionRequirements": [""],
+      "prerequisites": { "anyof": [], "allof": ["Permission of the instructor"] },
+
+      "unlocks": ["CMPSC 600"],
+      "courseDescription": "An investigation of select topics in computer and information science that prepares students for the completion of a senior project with the purpose of identifying knowledge gaps in the discipline. Students learn how to read scholarly papers, state and motivate research questions, create a software prototype or develop scholarly artifacts to address their findings, and collect and organize evidence for evaluating the outcome of their project. During a weekly laboratory session students use industry-grade technology to gain practical skills in technical writing, the presentation of technical concepts, and the production of an artifact. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+      "cslevel": "Project",
+      "dslevel": "Project",
+      "dsSub": "",
+      "inflevel": "Project",
+      "infSub": "",
+      "selevel": "Project",
+
+      "topics": ["Planning", "Idea Development", "Professional Development", "Literature Review", "User Studies"],
+      "tools": ["Docker", "Latex", "GatorGrader", "Python", "GitHub", "R"],
+
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+      },
+      {
+          "courseNumber": "CMPSC 403",
+          "courseName": "Computer Security",
+          "Major": ["Computer Science Major", "Software Engineering Major"],
+          "Minor": ["Computer Science Minor", "Software Engineering Minor"],
+
+          "credits": "4",
+          "distributionRequirements": ["QR","SP"],
+          "prerequisites": { "anyof": ["CMPSC 200", "CMPSC 201"], "allof": [] },
+
+          "unlocks": [],
+          "courseDescription": "A study of the principles used in the design, implementation, and evaluation of secure computer hardware and software. Participating in hands-on activities that often require teamwork, students assess the trade-offs in security policies and create software with efficient and effective security mechanisms. Leveraging insights and tools from an industry partner, students also investigate techniques for providing access control, secure channels, and intrusion detection. During a weekly laboratory session students use advanced security software to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+          "cslevel": "Elective",
+          "dslevel": "",
+          "dsSub": "",
+          "inflevel": "",
+          "infSub": "",
+          "selevel": "Core",
+
+          "topics": ["Privacy", "Security", "Threat Modelling", "Networking", "Malware", "Ethics, Policy", "Cryptography", "Firewalls", "Memory Safety", "Cryptanalysis", "Encryption", "Security Economics", "Virtual Private Networks", "Buffer Overflow", "Authentication", "Ethical Hacking"],
+          "tools": ["C", "GO", "HTML", "Rust", "JavaScript"],
+
+          "lab": [],
+          "learningObjectives": [],
+          "learningOutcomes": []
+          },
+          {
+              "courseNumber": "CMPSC 305",
+              "courseName": "Database Systems",
+              "Major": ["Data Science Major", "Informatics Major", "Software Engineering Major"],
+              "Minor": ["Informatics Minor", "Software Engineering Minor"],
+
+              "credits": "4",
+              "distributionRequirements": ["QR","SP"],
+              "prerequisites": { "anyof": [], "allof": ["CMPSC 101"] },
+
+              "unlocks": [],
+              "courseDescription": "A study of the application and evaluation of database management systems. Participating in hands-on activities that often require teamwork, students design, implement, and deploy database systems that store interdisciplinary data sets. In addition to learning how to develop and assess interfaces for databases, students study the efficiency and effectiveness of alternative data management systems. During a weekly laboratory session students use industry-grade technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+              "cslevel": "",
+              "dslevel": "Electives",
+              "dsSub": "",
+              "inflevel": "Modules",
+              "infSub": "Geoinformatics",
+              "selevel": "Electives",
+
+              "topics": ["Teamwork", "Queries", "Version Control Systems", "Databases", "Ethics", "Data Modeling", "Data Storage", "Code Review"],
+              "tools": ["Apache Cassandra", "GitHub", "SQL", "Django", "MongoDB", "SQLite", "Docker", "Neo4j", "GatorGrader", "Python"],
+
+              "lab": [],
+              "learningObjectives": [],
+              "learningOutcomes": []
+              },
+
+              {
+                  "courseNumber": "CMPSC 302",
+                  "courseName": "Web Design",
+                  "Major": ["Data Science Major", "Informatics Major", "Software Engineering Major"],
+                  "Minor": ["Software Engineering Minor"],
+
+                  "credits": "4",
+                  "distributionRequirements": ["IP","SP"],
+                  "prerequisites": { "anyof": [], "allof": ["CMPSC 104"] },
+
+                  "unlocks": ["CMPSC 404"],
+                  "courseDescription": "An exploration of technologies and data relationships which power modern web applications. Participating in hands-on activities which require teamwork, students build web applications that incorporate the “full stack,” including databases, application programming interfaces (APIs), and public-facing web pages or mobile applications. Students develop a broad knowledge of different development approaches, languages, and design paradigms to learn advantages and disadvantages of technologies and frameworks. During weekly laboratory sessions, students participate in iterative design processes and report progress and technical details through written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+                  "cslevel": "",
+                  "dslevel": "Electives",
+                  "dsSub": "",
+                  "inflevel": "Core",
+                  "infSub": "",
+                  "selevel": "Core",
+
+                  "topics": ["Teamwork", "Responsive Design", "Iterative Design", "Computer Graphics", "Networking", "User Studies", "Version Control Systems", "Professional Communication", "UI/UX", "Design Thinking"],
+                  "tools": ["React", "GitHub", "11ty", "CSS", "HTML", "Figma", "Netlify", "JavaScript", "Markdown"],
+
+                  "lab": [],
+                  "learningObjectives": [],
+                  "learningOutcomes": []
+      },
+      {
+          "courseNumber": "CMPSC 303",
+          "courseName": "Artificial Intelligence",
+          "Major": ["Data Science Major", "Software Engineering Major"],
+          "Minor": ["Software Engineering Minor"],
+
+          "credits": "4",
+          "distributionRequirements": ["QR","SP"],
+          "prerequisites": { "anyof": ["CMPSC 101","CMPSC 102"], "allof": [] },
+
+          "unlocks": [],
+          "courseDescription": "A study of the design and implementation of intelligent computer systems that can learn, plan, and solve problems autonomously. In addition to examining techniques for designing intelligent software agents, students investigate the social, political, and ethical implications of intelligent systems. Through hands-on activities that often require team-work, students explore the application of artificial intelligence methods in areas such as computer vision, natural language processing, and video game development. During a weekly laboratory session students use industry-grade technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
+
+          "cslevel": "",
+          "dslevel": "Electives",
+          "dsSub": "",
+          "inflevel": "",
+          "infSub": "",
+          "selevel": "Electives",
+
+          "topics": ["Planning", "Algorithms", "Computer Vision", "Probability", "Version Control Systems", "Natural Language Processing", "Boolean Logic", "Technical Writing", "Virtual Reality", "Teamwork", "Machine Learning", "Agents"],
+          "tools": ["Arduino", "GitHub", "Keras", "C sharp", "Google Colab", "NLTK", "Docker", "Google VR", "OpenCV", "GatorGrader", "Java", "Python"],
+
+          "lab": [],
+          "learningObjectives": [],
+          "learningOutcomes": []
+          }
   ]
 }
