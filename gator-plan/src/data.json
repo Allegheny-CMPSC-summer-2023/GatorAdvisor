@@ -2113,6 +2113,130 @@
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
+    },
+    {
+      "courseNumber": "MATH 205",
+      "courseName": "Foundations of Mathematics",
+      "Major": [
+        "Computer Science Major"
+       
+      ],
+      "Minor": [
+        "Computer Science Minor"
+        
+      ],
+      "distributionRequirements": [
+        "ME",
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": ["MATH 152", "MATH 160"],
+        "allof": [
+          "This course may substitute for the combination of CMPSC*480 and CMPSC*481 in the computer science major."
+        ]
+      },
+      "unlocks": [
+        
+        "MATH 320"
+      ],
+      "courseDescription": "An introduction to concepts encountered in the study of abstract mathematics. Topics covered include logic, mathematical proofs, set theory, relations, functions, mathematical induction, and introductory number theory. The concepts of injectivity, surjectivity, and inverses will be discussed as well as elementary computional tools such as the Division Algorithm and Euclid's algorithm for the greatest common divisor. Additional topics may include cardinality, combinatorics, graph theory, algebraic structure, the real number system, and concepts of mathematical analysis.",
+      "cslevel": "foundation",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [
+        
+      ],
+      "tools": [
+       
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "MATH 346",
+      "courseName": "Probability and Statistical Inference II",
+      "Major": [
+        "Computer Science Major"
+       
+      ],
+      "Minor": [
+        "Computer Science Minor"
+       
+      ],
+      "distributionRequirements": [
+        
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": ["MATH 210", "MATH 211"],
+        "allof": [
+          "MATH 345"
+        ]
+      },
+      "unlocks": [
+       
+      ],
+      "courseDescription": "A continuation of MATH*345 treating the testing of hypotheses and goodness of fit, small sample techniques, statistical design, non-parametric methods and sequential analysis. ",
+      "cslevel": "",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [
+        
+      ],
+      "tools": [
+       
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "MATH 320",
+      "courseName": "Linear Algebra",
+      "Major": [
+        "Computer Science Major"
+      ],
+      "Minor": [
+        "Computer Science Minor"
+      ],
+      "distributionRequirements": [
+        "SP"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": ["MATH*205"," MATH 210","MATH*211","MATH 270"," MATH 280"],
+        "allof": [
+          
+        ]
+      },
+      "unlocks": [
+       
+      ],
+      "courseDescription": "A study of vector spaces, linear transformations, matrices, determinants, systems of linear equations, similarity, and characteristic values and vectors. This course may be applied toward the mathematics requirement for a Computer Science major.",
+      "cslevel": "",
+      "dslevel": "Elective",
+      "dsSub": "",
+      "inflevel": "",
+      "infSub": "",
+      "selevel": "",
+      "topics": [
+        
+      ],
+      "tools": [
+       
+      ],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
     }
   ]
 }
