@@ -2320,7 +2320,7 @@
       "prerequisites": {
         "anyof": [],
         "allof": [
-          "ECOM 100"
+          "ECON 100"
         ]
       },
       "unlocks": [],
