@@ -2987,6 +2987,36 @@
       "lab": [],
       "learningObjectives": [],
       "learningOutcomes": []
+    },
+    {
+      "courseNumber": "FILM 300",
+      "courseName": "Filmmaking & Digital Stories 2",
+      "Major": [],
+      "Minor": [],
+      "distributionRequirements": [
+        "HE",
+        "ME"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+          "FILM 171"
+        ],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An intermediate-level production course that develops a student's abilities to communicate in narrative, nonfiction and experimental forms of cinema. Students study key elements of scriptwriting and concept design and expand their technical skill base in lighting, sound design, cinematography and editing. Technical skills are developed in service to artistic, narrative and conceptual forms of expression.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Core",
+      "infSub": "Methods",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
     }
   ]
 }
