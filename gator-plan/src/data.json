@@ -2676,6 +2676,347 @@
           "lab": [],
           "learningObjectives": [],
           "learningOutcomes": []
-          }
+          },
+    {
+      "courseNumber": "COMM 256",
+      "courseName": "Politics and Communication",
+      "Major": [
+        
+      ],
+      "Minor": [
+        
+      ],
+      "distributionRequirements": [
+        "CL",
+        "SB"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+          
+        ],
+        "allof": [
+          
+        ]
+      },
+      "unlocks": [
+        "COMM 360"
+      ],
+      "courseDescription": "An inquiry into the relationship between communication and politics. Emphasis is placed on the potential of language to create, perpetuate, and alter patterns of political and cultural behavior. Students consider the influence of contemporary political discourse on our understandings of public policy, political and cultural institutions, social controversies, and everyday life.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Polinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "COMM 360",
+      "courseName": "Comm and Civic Engagement",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "HE",
+        "CL"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+          "COMM 120",
+          "COMM 145"
+        ],
+        "allof": [
+          "COMM 256",
+          "Permission of the instructor"
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "An exploration of the ways communication enhances civic engagement in an ever-changing society. Students critically engage with models of civic engagement to better understand how they legitimize forms of communicative interaction, authorize who can and cannot speak, and set standards for what can be said and how. Students consider how they can affect change in their own communities and/or personal lives.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Polinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "POLSC 120",
+      "courseName": "Comparative Gov/Politics",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "IP",
+        "CL"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+         
+        ],
+        "allof": []
+      },
+      "unlocks": ["POLSC 330"],
+      "courseDescription": "An introduction to the development of political institutions and the distribution and exercise of political power in selected western, communist and Third World countries. Special attention will be devoted to the impact of institutional and cultural patterns upon the quality of life in those countries.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Polinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "POLSC 215",
+      "courseName": "Politics in Popular Culture",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "CL",
+        "SB"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+         
+        ],
+        "allof": [
+         
+        ]
+      },
+      "unlocks": ["ART 287"],
+      "courseDescription": "An examination of how American popular culture intersects with American politics. We focus on the processes through which common forms of entertainment, advertising, and material consumption influence our political perceptions, values, and actions. Special emphasis is placed on how experiences with products of popular culture influence our understandings of and (in)actions toward others. Through class discussion and analytical papers, students identify, explain, and evaluate how the content of popular culture influences their political conduct and the political conduct of others.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Project",
+      "infSub": "Polinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "POLSC 318",
+      "courseName": "Politics and the Media",
+      "Major": [],
+      "Minor": [],
+      "distributionRequirements": [
+        "SB",
+        "CL"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An examination and evaluaiton of the role of mass media in American politics. Topics include: the legal framework which enshrouds freedom of the press, the newsmaking process, sources of potential bias, the development of investigative journalism, corporate ownership of the media, the role of the press in elections, the ipact of mass media on individual behavior and opinion formation, and the politics of entertainment, concluding with an exploration of the process by which the media have become a tool, indeed a weapon, in the contemporary U.S. process.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Polinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "POLSC 321",
+      "courseName": "Urban Government and Politics",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "CL",
+        "SB"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [],
+        "allof": [
+          
+        ]
+      },
+      "unlocks": [],
+      "courseDescription": "An examination of the political institutions and the policy-making processes in American cities. Emphasis is on the impact of historical and social conditions, institutional arrangements, and power relationships on significant problems facing urban areas, including metropolitan organization, taxing and spending, law enforcement, education, social welfare, and housing..",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Polinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "POLSC 424",
+      "courseName": "Inequality and Social Policy",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "IP",
+        "PD"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An examination of the politics of social policy in advanced industrial democracies. Focusing on questions of economic and gender inequality, we study the main components of welfare states in the United Kingdom, Germany, Sweden, Italy, and the United States. We examine fundamental differences in social policy, the consequences of diverging welfare regimes, sustainability of welfare policies, and popular support for welfare states across countries.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Polinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "PHIL 210",
+      "courseName": "Oppression and Liberation",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "CL",
+        "PD"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An overview of analyses of oppression and theories of liberation generated by groups traditionally marginalized in the United States.",
+      "cslevel": "",
+      "dslevel": "Core",
+      "dsSub": "Ethics",
+      "inflevel": "Module",
+      "infSub": "Polinformatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "COMM 331",
+      "courseName": "Disease and Disability",
+      "Major": [
+        ""
+      ],
+      "Minor": [
+        ""
+      ],
+      "distributionRequirements": [
+        "PD",
+        "SB"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+          "Permission of the instructor"
+        ],
+        "allof": [
+          "COMM 120",
+          "COMM 256"
+        ]
+      },
+      "unlocks": [
+        "ART 287"
+      ],
+      "courseDescription": "Disease, Disability, and Difference in Popular Culture: An exploration of how American popular culture defines what it means to be healthy or normal in today's world. Students learn to analyze films, television, news, and other digital media to understand how such media sets expectations for dealing with illness, disability, or other divergences from social norms in a variety of ways. Prerequisite: One 100-level or 200-level COMM course; or permission of instructor.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Module",
+      "infSub": "Health Informatics",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    },
+    {
+      "courseNumber": "FILM 300",
+      "courseName": "Filmmaking & Digital Stories 2",
+      "Major": [],
+      "Minor": [],
+      "distributionRequirements": [
+        "HE",
+        "ME"
+      ],
+      "credits": "4",
+      "prerequisites": {
+        "anyof": [
+          "FILM 171"
+        ],
+        "allof": []
+      },
+      "unlocks": [],
+      "courseDescription": "An intermediate-level production course that develops a student's abilities to communicate in narrative, nonfiction and experimental forms of cinema. Students study key elements of scriptwriting and concept design and expand their technical skill base in lighting, sound design, cinematography and editing. Technical skills are developed in service to artistic, narrative and conceptual forms of expression.",
+      "cslevel": "",
+      "dslevel": "",
+      "dsSub": "",
+      "inflevel": "Core",
+      "infSub": "Methods",
+      "selevel": "",
+      "topics": [],
+      "tools": [],
+      "lab": [],
+      "learningObjectives": [],
+      "learningOutcomes": []
+    }
   ]
 }
