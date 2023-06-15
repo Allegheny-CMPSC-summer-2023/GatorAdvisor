@@ -82,7 +82,7 @@
       "unlocks": [
         "CMPSC 200",
         "CMPSC 201",
-        "CMPSC 102",
+        "CMPSC 202",
         "CMPSC 204",
         "CMPSC 301",
         "CMPSC 303",
@@ -217,19 +217,19 @@
       ],
       "credits": "4",
       "prerequisites": {
-        "anyof": [],
+        "anyof": ["CMPSC 101","CMPSC 102"],
         "allof": []
       },
       "unlocks": [
-        "CMPSC 580"
+        ""
       ],
       "courseDescription": "A study of fundamental methods for designing and implementing algorithms and analyzing their efficiency. While developing expertise in select models of computation and the key mathematical and experimental approaches to studying algorithm efficiency, students investigate different types of algorithms through hands-on activities that often require teamwork. Students also learn how to determine whether a problem can be efficiently solved by an algorithm that is implemented as a computer program. During a weekly laboratory session, students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
-      "cslevel": "",
+      "cslevel": "Core",
       "dslevel": "",
       "dsSub": "",
       "inflevel": "",
       "infSub": "",
-      "selevel": "foundation",
+      "selevel": "",
       "topics": [
         "Teamwork",
         "Memory Management",
@@ -270,11 +270,10 @@
       "credits": "4",
       "prerequisites": {
         "anyof": [],
-        "allof": []
+        "allof": ["CMPSC 101"]
       },
       "unlocks": [
-        "CMPSC 404",
-        "CMPSC 580"
+        "CMPSC 404"
       ],
       "courseDescription": "A human-centric study of the principles used during the engineering of high-quality software systems. In addition to examining the human behaviors and social processes undergirding software development methodologies, students participate in teams tasked with designing, developing, and delivering a significant software application for a customer. During a weekly laboratory session, students use state-of-the-art software engineering, management, and communication tools to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
       "cslevel": "",
@@ -412,6 +411,7 @@
       "courseNumber": "CMPSC 105",
       "courseName": "Data Exploration",
       "Major": [
+        "Informatics Major",
         "Data Science Major"
       ],
       "Minor": [
@@ -452,10 +452,10 @@
       "courseNumber": "CMPSC 201",
       "courseName": "Programming Languages",
       "Major": [
-        "Data Science Major"
+        "Software Engineering Major"
       ],
       "Minor": [
-        "Data Science Minor"
+        "Software Engineering Minor"
       ],
       "credits": "4",
       "distributionRequirements": [
@@ -470,25 +470,21 @@
         "allof": []
       },
       "unlocks": [
-        "CMPSC 403",
-        "CMPSC 400"
+        "CMPSC 400",
+        "CMPSC 403"
       ],
       "courseDescription": "A study of the fundamental concepts that arise in different programming language paradigms. Students learn how programming languages are designed and implemented, and how these factors affect the overall usability, performance, and effectiveness of computer software. Participating in hands-on activities that often require teamwork, students gain experience in leveraging the styles and features of programming languages to implement and evaluate correct and efficient computer software. During a weekly laboratory session, students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
-      "cslevel": "Foundation",
-      "dslevel": "Core",
+      "cslevel": "",
+      "dslevel": "",
       "dsSub": "",
-      "inflevel": "Foundation",
+      "inflevel": "",
       "infSub": "",
-      "selevel": "Foundation",
+      "selevel": "Core",
       "topics": [
-        "Language Design",
-        "Compiler vs Interpreter",
-        "Grammars & Scanning"
+        "Language Design", "Control Flow", "Functional programming", "Compiler vs Interpreter", "Functions", "Logic Programming", "Grammars & Scanning", "OOP", "Security", "Parsing", "Classes", "Typing"
       ],
       "tools": [
-        "Bash",
-        "C",
-        "Prolog"
+        "Bash", "Docker", "Java", "C", "Git", "Java Bytecode", "C sharp", "GitHub", "JavaScript", "C++", "Haskell", "Prolog"
       ],
       "lab": [],
       "learningObjectives": [],
@@ -579,10 +575,15 @@
       "courseNumber": "CMPSC 101",
       "courseName": "Data Abstraction",
       "Major": [
-        "Informatics Major"
+        "Computer Science Major",
+        "Data Science Major",
+        "Informatics Major",
+        "Software Engineering Major"
+
       ],
       "Minor": [
-        "Informatics Minor"
+        "Informatics Minor",
+        "Software Engineering Minor"
       ],
       "credits": "4",
       "distributionRequirements": [
@@ -614,14 +615,10 @@
       "infSub": "",
       "selevel": "Foundation",
       "topics": [
-        "Teamwork",
-        "Data Structures",
-        "Recursion"
+        "Teamwork", "Recursion", "Time Complexity", "Data Structures", "Object-oriented Programming", "Data Analysis", "Iteration", "Version Control Systems", "Technical Writing", "Algorithms", "Statistical Analysis", "Software Design", "Continuous Deployment", "Flow of Control", "Computational Thinking", "Code Review"
       ],
       "tools": [
-        "Docker",
-        "GitHub",
-        "Git"
+        "Docker", "Java", "Git", "Linters", "GitHub", "Markdown", "Gradle", "Travis CI"
       ],
       "lab": [],
       "learningObjectives": [],
@@ -2681,10 +2678,10 @@
       "courseNumber": "COMM 256",
       "courseName": "Politics and Communication",
       "Major": [
-        
+
       ],
       "Minor": [
-        
+
       ],
       "distributionRequirements": [
         "CL",
@@ -2693,10 +2690,10 @@
       "credits": "4",
       "prerequisites": {
         "anyof": [
-          
+
         ],
         "allof": [
-          
+
         ]
       },
       "unlocks": [
@@ -2769,7 +2766,7 @@
       "credits": "4",
       "prerequisites": {
         "anyof": [
-         
+
         ],
         "allof": []
       },
@@ -2803,10 +2800,10 @@
       "credits": "4",
       "prerequisites": {
         "anyof": [
-         
+
         ],
         "allof": [
-         
+
         ]
       },
       "unlocks": ["ART 287"],
@@ -2868,7 +2865,7 @@
       "prerequisites": {
         "anyof": [],
         "allof": [
-          
+
         ]
       },
       "unlocks": [],
