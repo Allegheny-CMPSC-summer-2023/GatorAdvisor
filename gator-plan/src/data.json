@@ -480,15 +480,18 @@
         "inflevel": "",
         "infSub": "",
         "selevel": "Core",
-        "topics": [
+        "technicalTopics": [
           "Language Design", "Control Flow", "Functional programming", "Compiler vs Interpreter", "Functions", "Logic Programming", "Grammars & Scanning", "OOP", "Security", "Parsing", "Classes", "Typing"
+        ],
+        "professionalTopics": [
+          "teamwork", "code review", "communication"
         ],
         "tools": [
           "Bash", "Docker", "Java", "C", "Git", "Java Bytecode", "C sharp", "GitHub", "JavaScript", "C++", "Haskell", "Prolog"
         ],
-        "lab": [],
-        "learningObjectives": [],
-        "learningOutcomes": []
+        "platform": ["https://github.com/CMPSC-201-Spring2023"],
+        "learningObjectives": ["Understand fundamental concepts that underlie programming language syntax and semantics", "Gain exposure to many different languages", "Learn how to use language constructs effectively to design correct and elegant programs", "Continue developing team-working strategies", "Enhance ability to write and present ideas about software in a clear, concise, and compelling fashion"],
+        "learningOutcomes": ["Can proficiently program in languages such as Java", "Able to design a grammar for a language.", "Be able to learn new programming languages with a minimum of effort based on an understanding of general principles of language design and implementation."]
       },
       {
         "courseNumber": "CMPSC 301",
