@@ -481,17 +481,17 @@
         "infSub": "",
         "selevel": "Core",
         "technicalTopics": [
-          "Language Design", "Control Flow", "Functional programming", "Compiler vs Interpreter", "Functions", "Logic Programming", "Grammars & Scanning", "OOP", "Security", "Parsing", "Classes", "Typing"
+          "Language Design", "Compilation", "Interpretation", "Understanding Java", "Syntax", "Grammars", "Parsing", "Scoping", "Binding", "Storage Management", "Control Flow", "Functions", "Typing", "Language Paradigms", "Language Security"
         ],
         "professionalTopics": [
           "teamwork", "code review", "communication"
         ],
         "tools": [
-          "Bash", "Docker", "Java", "C", "Git", "Java Bytecode", "C sharp", "GitHub", "JavaScript", "C++", "Haskell", "Prolog"
+          "C", "C++", "Docker", "Git", "Go", "Haskell", "Java", "Java Bytecode", "JavaScript", "Python"
         ],
         "platform": ["https://github.com/CMPSC-201-Spring2023"],
-        "learningObjectives": ["Understand fundamental concepts that underlie programming language syntax and semantics", "Gain exposure to many different languages", "Learn how to use language constructs effectively to design correct and elegant programs", "Continue developing team-working strategies", "Enhance ability to write and present ideas about software in a clear, concise, and compelling fashion"],
-        "learningOutcomes": ["Can proficiently program in languages such as Java", "Able to design a grammar for a language.", "Be able to learn new programming languages with a minimum of effort based on an understanding of general principles of language design and implementation."]
+        "learningObjectives": ["Understand fundamental concepts that underlie programming language syntax and semantics", "Gain exposure to different languages and language paradigms", "Learn how to use language constructs effectively to design correct and elegant programs", "Continue developing team-working strategies", "Enhance ability to write and present ideas about software in a clear, concise, and compelling fashion"],
+        "learningOutcomes": ["Can proficiently program in languages such as Java", "Able to design and understand a simple grammar for a language", "Able to implement a simple scanner", "Able to create a simple parser", "Be able to learn new programming languages with a minimum effort based on an understanding of general principles of language design and implementation"]
       },
       {
         "courseNumber": "CMPSC 301",
@@ -563,16 +563,19 @@
         "inflevel": "",
         "infSub": "",
         "selevel": "",
-        "topics": [
-          "intern"
+        "technicalTopics": [
+          "topics vary based on the assigned industry project"
+        ],
+        "professionalTopics": [
+          "teamwork", "meetings", "communication"
         ],
         "tools": [
           "GitHub",
           "Git"
         ],
-        "lab": [],
-        "learningObjectives": [],
-        "learningOutcomes": []
+        "platform": ["https://github.com/CMPSC-529-Allegheny-CS-Internship"],
+        "learningObjectives": ["Gain hands-on experience working with an industry partner", "Experiment with new technologies", "Engage in appropriate industry practices related to the project", "Enhance ability to write and present ideas about a technical project", "Expand team working experiences"],
+        "learningOutcomes": ["Able to gather project requirements from an industry partner", "Can follow established processes while working in a team", "Able to work in an iterative manner on a project", "Able to create and deploy a solution that is satisfactory to the industry partner", "Can effectively and clearly communicate with team members and industry supervisors"]
       },
       {
         "courseNumber": "CMPSC 101",
@@ -656,19 +659,27 @@
         "inflevel": "Module",
         "infSub": "",
         "selevel": "",
-        "topics": [
-          "Robot Autonomy",
-          "Code Review",
-          "Human-Robot Interaction"
+        "technicalTopics": [
+          "Ethical Robots", "Actuating", "Sensing", "Locomotion", "Modularity", "Navigation", "Robot Operating System", "Manipulation", "Mapping", "Learning in robotics"
+        ],
+        "professionalTopics": [
+          "community engagement", "teamwork", "code review", "communication"
         ],
         "tools": [
-          "LeJOS",
+          "Python",
+          "ROS",
+          "Arduino",
+          "Raspberri Pi",
+          "Sensors",
           "Drones",
-          "Python"
+          "GoPiGo",
+          "Turtlebot",
+          "Git",
+          "GitHub"
         ],
-        "lab": [],
-        "learningObjectives": [],
-        "learningOutcomes": []
+        "platform": ["https://learnroboticagents.com"],
+        "learningObjectives": ["Understand the field of agent-based and robotic systems", "Gain exposure to multiple different robot platforms", "Design and develop several robot applications", "Learn about and reflect on public problems that involve robotic technology", "Participate in civic engagement activities"],
+        "learningOutcomes": ["Able to design, implement, and test application for a wheeled robot", "Able to design, implement, and test application for a drone", "Able to design, implement, and test application for a robotic arm", "Can develop a simple application using ROS", "Can put together engaging demonstrations using robots for public events"]
       },
       {
         "courseNumber": "CMPSC 350",
