@@ -2810,7 +2810,7 @@
   
             "unlocks": [],
             "courseDescription": "A study of the design and implementation of intelligent computer systems that can learn, plan, and solve problems autonomously. In addition to examining techniques for designing intelligent software agents, students investigate the social, political, and ethical implications of intelligent systems. Through hands-on activities that often require team-work, students explore the application of artificial intelligence methods in areas such as computer vision, natural language processing, and video game development. During a weekly laboratory session students use industry-grade technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.",
-  
+
             "cslevel": "",
             "dslevel": "Electives",
             "dsSub": "",
@@ -2818,12 +2818,15 @@
             "infSub": "",
             "selevel": "Electives",
   
-            "topics": ["Planning", "Algorithms", "Computer Vision", "Probability", "Version Control Systems", "Natural Language Processing", "Boolean Logic", "Technical Writing", "Virtual Reality", "Teamwork", "Machine Learning", "Agents"],
-            "tools": ["Arduino", "GitHub", "Keras", "C sharp", "Google Colab", "NLTK", "Docker", "Google VR", "OpenCV", "GatorGrader", "Java", "Python"],
+            "technicalTopics": ["Agents", "Search Algorithms in AI", "Learning Overview", "Supervised Learning", "Computer Vision", "Natural Language Processing", "Bayes Theory", "Neural Networks", "Attention Mechanisms", "Transformers", "Prompt Engineering"],
+            "professionalTopics": [
+              "teamwork", "code review", "communication"
+            ],
+            "tools": ["Arduino", "GitHub", "Tensoflow", "Keras", "Python", "Google Colab", "GPT", "Docker",  "OpenCV", "NLTK"],
   
-            "lab": [],
-            "learningObjectives": [],
-            "learningOutcomes": []
+            "platform": ["https://github.com/CMPSC-310-AI-Spring2023"],
+            "learningObjectives": ["Understand foundational principles that drive the field of artificial intelligence", "Practice implementing intelligent applications", "Investigate social problems around AI including ethical concerns and environmental challenges", "Learn how to determine when an AI approach is appropriate for a given situation, be able to select and implement an AI method for it", "Learn to evaluate the developed AI systems while considering their social, political and ethical implications"],
+            "learningOutcomes": ["Can create a simple agent using Arduino board and sensors", "Able to apply search algorithm to solve an agent-based problem", "Can design, implement and assess an intelligent system for a computer vision application using supervised learning", "Can design, implement and assess an intelligent system for a natural language processing application using deep neural networks", "Can effectively reflect on ethical, political and social issues surrounding AI"]
             },
       {
         "courseNumber": "COMM 256",
