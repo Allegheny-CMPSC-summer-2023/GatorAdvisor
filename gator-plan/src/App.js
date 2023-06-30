@@ -13,12 +13,12 @@ function App() {
     <>
       <Navbar />
       <div className="container">
-        <Routes>
+        {/* <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/courses" element={<Courses />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFoundPage />} />
-        </Routes>
+        </Routes> */}
       </div>
     </>
   )
