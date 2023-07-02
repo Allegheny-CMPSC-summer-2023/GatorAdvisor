@@ -15,16 +15,19 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@babel/plugin-syntax-decorators": "^7.22.5",
     "@mdx-js/react": "^2.3.0",
     "autoprefixer": "^10.4.14",
     "gatsby": "^5.10.0",
     "gatsby-cli": "^5.11.0",
     "gatsby-plugin-mdx": "^5.10.0",
-    "gatsby-plugin-postcss": "^6.10.0",
+    "gatsby-plugin-postcss": "^6.11.0",
     "gatsby-source-filesystem": "^5.10.0",
     "postcss": "^8.4.24",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "react-transition-group": "^4.4.5",
     "tailwindcss": "^3.3.2"
   },
   "devDependencies": {

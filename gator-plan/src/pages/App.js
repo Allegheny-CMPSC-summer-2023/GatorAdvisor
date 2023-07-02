@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
-import Navbar from "./components/Navbar"
-import Courses from "./pages/Courses"
-import Home from "./pages/Home"
-import About from "./pages/About"
+import Navbar from "../components/Navbar"
+import Courses from "./Courses"
+import Home from "./Home"
+import About from "./About"
 import { Route, Routes } from "react-router-dom"
-import * as Card from "./components/Cards"
-import NotFoundPage from './pages/404';
-import RoadMap from "./components/web-of-knowledge";
+import * as Card from "../components/Cards"
+import NotFoundPage from './404';
+import RoadMap from "../components/web-of-knowledge";
 
 function App() {
   return (
