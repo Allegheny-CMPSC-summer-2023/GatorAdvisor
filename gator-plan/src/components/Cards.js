@@ -8,6 +8,12 @@ const cardContainer = {
     boxSize: "border-box",
   };
 
+  const pageContainer = {
+    display: "flex",
+    flexDirection: "column",
+  };
+
+
   const cardStyle = {
     width: 500,
     flexDirection: "column",

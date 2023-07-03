@@ -1,15 +1,15 @@
-import { Link, useMatch, useResolvedPath } from "react-router-dom"
+import { Link } from 'gatsby'
 import React from 'react';
 
 export default function Navbar() {
   return (
     <nav className="nav">
-      <Link to="/" className="site-title">
-        Site Name
+      <Link to="/home" className="site-title">
+        GatorAdvisor
       </Link>
       <ul>
-        <Link to="/Courses">Courses</Link>
-        <Link to="/About">About</Link>
+        <Link to="/courses">Courses</Link>
+        <Link to="/about">About</Link>
       </ul>
     </nav>
   )
