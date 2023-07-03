@@ -10,8 +10,9 @@ import UserInterfaceBlock from "../components/UserInterfaceBlock";
 import CommunicationBlock from "../components/CommunicationBlock";
 
 const MainContainer = () => {
+    console.log(classes);
   return (
-    <div className={classes["main-container"]}>
+    <div className={classes["mainContainer"]}>
       <svg
         viewBox="0 0 1280 3392"
         fill="none"

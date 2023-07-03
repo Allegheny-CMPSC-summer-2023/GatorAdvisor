@@ -1,5 +1,6 @@
 import MainContainer from "./layout/MainContainer";
-import {React, useState, useEffect, useContext } from "react";
+import React, {useState, useContext} from "react";
+import ReactDOM from 'react-dom/client';
 import Header from "./layout/Header";
 import Modal from "./modal/Modal";
 import CartContext from "./modal/modalContext";
@@ -9,24 +10,15 @@ import Footer from "./layout/Footer";
 import { YoutubeBanner } from "./components/YoutubeBanner";
 import { ModalContextProvider } from "./modal/modalContext";
 
-function RoadMap () {
+const RoadMap = (props) => {
+
     const { currentTopicTitle } = useContext(CartContext);
-    const [isLoading, setIsLoading] = useState(true);
-
-    useEffect(() => {
-        setTimeout(() => {
-            setIsLoading(false);
-        }, 100);
-    }, []);
-
-    setIsLoading(false);
-    console.log(CartContext);
-    const topicData = contentData["CMPSC Major"];
+    const { topic } = props;
 
     return (
         <ModalContextProvider>
             <div>
-                <Modal topicData={topicData} />
+                <Modal topicData={contentData[topic]} />
                     <main>
                         <Header></Header>
                         <MainContainer></MainContainer>
@@ -35,7 +27,7 @@ function RoadMap () {
             </div>
         </ModalContextProvider>
     );
+
 }
 
 export default RoadMap;
-

@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import * as Card from "../components/Cards";
-import { BrowserRouter, useLocation } from 'react-router-dom';
-import App from './App';
+import RoadMap from '../components/web-of-knowledge';
 
-function Index() {
+const Index = () => {
     return(
-        <App />
-    )
+        <React.StrictMode>
+            <RoadMap topic="CMPSC Major" />
+        </React.StrictMode>
+    );
 }
 
 export default Index;

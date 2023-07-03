@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-async": "^10.0.1",
     "react-router-dom": "^6.13.0"
   }
 }

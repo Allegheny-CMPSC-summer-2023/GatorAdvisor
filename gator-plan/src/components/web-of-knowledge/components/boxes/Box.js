@@ -1,7 +1,6 @@
 import * as styles from "./Box.module.css";
 import ModalContext from "../../modal/modalContext";
-import { useContext, useEffect, useRef, useState, React } from "react";
-
+import React, { useContext, useEffect, useRef, useState } from "react";
 const colorPicker = {
   white: "#FFFFFF",
   blue0: "#E7F5FF",

@@ -1,7 +1,6 @@
 import React from 'react';
 import data from "../data.json";
 import ReactDOM from "react-dom/client"
-import App from "../App"
 import { BrowserRouter } from "react-router-dom"
 import * as Card from "../components/Cards"
 import Navbar from '../components/Navbar';
