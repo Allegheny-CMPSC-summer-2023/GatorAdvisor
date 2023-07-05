@@ -1,13 +1,12 @@
 import React from 'react';
 import * as Card from "../components/Cards";
-import Navbar from '../components/Navbar';
-
+import Layout from '../components/Layout';
 
 export default function Home() {
 
   return (
     <section>
-        <Navbar/>
+      <Layout>
         <div style={Card.cardContainer}>
           <Card.FieldCard1/>
           <Card.FieldCard2/>
@@ -19,6 +18,7 @@ export default function Home() {
           <Card.MinorCard8/>
         </div>
       {/* Other content for the home page */}
+      </Layout>
     </section>
   );
 };

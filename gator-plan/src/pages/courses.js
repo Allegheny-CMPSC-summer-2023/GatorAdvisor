@@ -4,6 +4,7 @@ import ReactDOM from "react-dom/client"
 import { BrowserRouter } from "react-router-dom"
 import * as Card from "../components/Cards"
 import Navbar from '../components/Navbar';
+import Layout from '../components/Layout';
 
 
 
@@ -32,7 +33,7 @@ const CScourseCards = () => {
   return (
     <main>
       <div style={Card.pageContainer}>
-        <h1>COMPUTER SCIENCE MAJOR</h1>
+        <h1>COMPUTER SCIENCE MAJOR COURSES</h1>
         <div style={Card.cardContainer}>
           {csMajor.map((course, index) => (
             <Card.CourseCard
@@ -84,13 +85,11 @@ const CScourseCards = () => {
 const coursesPage = () => {
   return (
     <main>
-      <Navbar/>
-      <div style={Card.pageContainer}>
-        <h1>ALLEGHENY COMPUTER SCIENCE</h1>
+      <Layout>
         <div style={Card.cardContainer}>
           <CScourseCards/>
         </div>
-      </div>
+      </Layout>
     </main>
   );
 };
