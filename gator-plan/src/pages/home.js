@@ -1,6 +1,7 @@
 import React from 'react';
 import * as Card from "../components/Cards";
 import Layout from '../components/Layout';
+// import "../styles/global.css"
 
 export default function Home() {
 

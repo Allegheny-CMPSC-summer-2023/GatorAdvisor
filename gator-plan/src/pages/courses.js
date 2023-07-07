@@ -5,6 +5,7 @@ import { BrowserRouter } from "react-router-dom"
 import * as Card from "../components/Cards"
 import Navbar from '../components/Navbar';
 import Layout from '../components/Layout';
+import "../styles/global.css"
 
 
 
