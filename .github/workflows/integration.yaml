@@ -1,9 +1,9 @@
-name: Super-Linter
+name: My Workflow
 
-on: push
+on: [push, pull_request]
 
 jobs:
-  super-lint:
+  lint:
     name: Lint code base
     runs-on: ubuntu-latest
     steps:
@@ -15,3 +15,63 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  JSON-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Lint JSON files
+      run: |
+        npm install -g jsonlint
+        jsonlint gator-plan/src/data.json
+
+  ajv:
+    name: AJV JS file Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+    
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+    
+      - name: Install dependencies
+        run: npm install -g ajv-cli
+    
+      - name: Run AJV validation
+        run: ajv validate -s config-schema.json -d gator-plan/src/data.json
+
+  check-schema:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install check-jsonschema
+      run: pip install check-jsonschema
+    
+    - name: Run check-jsonschema
+      run: check-jsonschema --schemafile config-schema.json gator-plan/src/data.json
+
+
+  prettier:
+    name: Prettier
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.3
+        with:
+          prettier_options: --write **/*.{md,json,js}
