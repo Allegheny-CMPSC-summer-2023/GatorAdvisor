@@ -2736,12 +2736,16 @@
             "infSub": "",
             "selevel": "Core",
   
-            "topics": ["Privacy", "Security", "Threat Modelling", "Networking", "Malware", "Ethics, Policy", "Cryptography", "Firewalls", "Memory Safety", "Cryptanalysis", "Encryption", "Security Economics", "Virtual Private Networks", "Buffer Overflow", "Authentication", "Ethical Hacking"],
-            "tools": ["C", "GO", "HTML", "Rust", "JavaScript"],
+            "technicalTopics": ["Security Principles", "Ethical Hacking", "Threat Modelling", "Buffer Overflow", "Memory Safety", "Cryptography", "Encryption", "Web Security", "Network Security", "Privacy and Anonymity", "Authentication", "Policy and Economics"],
+            "professionalTopics": [
+              "teamwork", "ethics", "presentation", "careers"
+            ],
+
+            "tools": ["Linux OS", "Windows OS", "C", "Python", "Git", "GitHub", "JavaScript"],
   
-            "lab": [],
-            "learningObjectives": [],
-            "learningOutcomes": []
+            "platform": ["https://github.com/CMPSC403-AlleghenyCollege-Fall2021"],
+            "learningObjectives": ["Develop skills to tackle security challenges", "Learn about theory and practice of computer security", "Be able to reason about security defenses and attacks", "Evaluate the performance of various systems with respect to security while considering their social, political, and ethical implications", "Write and present ideas about secure systems in a clear, concise, and compelling fashion"],
+            "learningOutcomes": ["Examine and apply the fundamental techniques of computer security", "Identify, explain, and resolve security issues in computer systems", "Interpret security objectives and policy development", "Design, implement, and test secure software", "Communicate the human role in security systems with an emphasis on social, political, legal and ethical vulnerabilities"]
             },
             {
                 "courseNumber": "CMPSC 305",
