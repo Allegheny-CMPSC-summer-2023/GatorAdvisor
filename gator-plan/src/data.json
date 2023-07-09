@@ -95,29 +95,60 @@
       "inflevel": "",
       "infSub": "",
       "selevel": "",
-      "topics": [
-        "Boolean Logic",
-        "Statistical Analysis",
-        "Flow of Control",
-        "Teamwork",
-        "Graph Theory",
-        "Code Review",
-        "Algorithms",
-        "Continuous Deployment",
-        "Version Control Systems",
+      "technicalTopics": [
+        "Programming Constructs",
+        "Python Functions",
+        "Building and Using Virtual Environments",
+        "Data Containers",
+        "Sets",
+        "Tuples",
+        "Lists",
+        "Dictionaries",
+        "Monoids",
+        "Generator Functions",
+        "Statistics",
         "Plotting"
       ],
+      "professionalTopics": [
+        "teamwork",
+        "code development",
+        "communication",
+        "presentations",
+        "analysis",
+        "programming"
+      ],
+    
       "tools": [
-        "Docker",
+        "Poetry",
+        "typer",
+        "rich",
         "Python",
         "GatorGrader",
-        "SimPy",
+        "Git",
         "GitHub",
-        "Matplotlib"
+        "Matplotlib",
+        "VScode",
+        "Jupyter Notebook",
+        "pytest",
+        "CSV",
+        "Markdown"
       ],
-      "lab": [],
-      "learningObjectives": [],
-      "learningOutcomes": []
+      "platform": ["https://github.com/CMPSC-102-Allegheny-College-Fall-2022"
+      ],
+      "learningObjectives": [
+        "To understand programming and mathematical constructs",
+        "To master skills of technical communication",
+        "To implement mathematical structure in programming",
+        "To use industry-standard tools such as GitHub to maintain code",
+        "To write clean and readable Python code that is easy for others to understand.",
+      ],
+      "learningOutcomes": [
+        "To test programs thoroughly before submission.",
+        "To demonstrate proficiency in python programming environments.",
+        "To be to create clear and meaningful technical documentation.",
+        "To be able to demonstrate mathematical concepts and translate meaning in language.",
+        "To be able to work effectively in Python environments"
+      ]
     },
     {
       "courseNumber": "CMPSC 200",
