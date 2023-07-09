@@ -282,41 +282,54 @@
         "inflevel": "",
         "infSub": "",
         "selevel": "core",
-        "topics": [
-          "Project Management",
-          "Unit Testing",
+        "technicalTopics": [
+          "Software Testing",
+          "Continuous Integration and Delivery",
+          "Requirements Engineering",
+          "Software Design",
+          "Software Complexity",
+          "Programming Styles",
           "Debugging",
-          "Teamwork",
           "Integration Testing",
           "Fault Localization",
-          "Version Control Systems",
-          "Implementation",
-          "Linting",
-          "Technical Writing",
-          "Software Design",
           "Static Analysis",
           "Performance Assessment",
           "Coverage Testing",
           "Dynamic Analysis",
-          "Professional Communication",
-          "Open Source Software",
-          "User Studies",
-          "Flow of Control",
-          "Software Testing",
+          "Mutation Testing",
+          "Scrum Methodology"
+        ],
+        "professionalTopics": [ 
+          "Project Management",
+          "Teamwork",
+          "Technical Writing",
           "Code Review",
-          "Requirements Gathering",
-          "Mutation Testing"
+          "Version Control Systems",
+          "Professional Communication"
         ],
         "tools": [
           "Git",
           "GitHub",
           "Markdown",
           "pytest",
-          "Python"
+          "Python",
+          "linters"
         ],
-        "lab": [],
-        "learningObjectives": [],
-        "learningOutcomes": []
+        "platform": ["https://learncraftingsoftware.com/"],
+        "learningObjectives": [
+          "Learn the phases of the software engineering lifecycle",
+          "Examine the principles and challenges of software engineering",
+          "Explore and engage in various software engineering methodologies",
+          "Understand and engage in software requirements elicitation, design, implementation, testing, documentation, maintenance, and deployment",
+          "Learn how to effectively work in a team of diverse software developers"
+        ],
+        "learningOutcomes": [
+          "Be able to gather requirements and design a software product",
+          "Contribute to the implementation of a software product using an integrated development environment",
+          "Be able to design and implement automated test cases",
+          "Effectively utilize linters and debuggers",
+          "Be able to work effectively in a team using version control systems"
+        ]
       },
       {
         "courseNumber": "CMPSC 204",
@@ -524,17 +537,35 @@
         "inflevel": "",
         "infSub": "",
         "selevel": "",
-        "topics": [
-          "Statistical Analysis",
-          "Plotting",
+        "technicalTopics": [
+          "Relevant Linear Algebra",
+          "Relevant Calculus",
+          "Neural Networks",
+          "Multilayer Perceptrons",
+          "Convolutional and Recurrent Neural Networks",
+          "Attention Mechanisms and Transformers",
+          "Optimization",
+          "Performance",
+          "Computer Vision",
+          "Natural Language Processing"
+        ],
+        "professionalTopics": [
+          "Environmental Impact",
           "Ethics"
         ],
         "tools": [
-          "Docker",
+          "Python",
           "R",
-          "ggplot"
+          "scikit-learn",
+          "tensorflow",
+          "PyTorch",
+          "Keras",
+          "GPT",
+          "OpenCV",
+          "Git",
+          "GitHub"
         ],
-        "lab": [],
+        "platform": [],
         "learningObjectives": [],
         "learningOutcomes": []
       },
@@ -803,9 +834,30 @@
         "inflevel": "Module",
         "infSub": "",
         "selevel": "",
-        "topics": [],
-        "tools": [],
-        "lab": [],
+        "technicalTopics": [
+          "Device architectures",
+          "Signals Processing", 
+          "Electronic Circuitry",
+          "Sensors",
+          "Networks",
+          "Data Transmission",
+          "Privacy",
+          "Human Interaction Design",
+          "Device Design",
+          "Device performance optimization"
+        ],
+        "professionalTopics": [],
+        "tools": [
+          "arduino", 
+          "sensors", 
+          "raspberry pi", 
+          "soldering iron", 
+          "Python", 
+          "Git", 
+          "GitHub", 
+          "3D printing"
+        ],
+        "platform": [],
         "learningObjectives": [],
         "learningOutcomes": []
       },
