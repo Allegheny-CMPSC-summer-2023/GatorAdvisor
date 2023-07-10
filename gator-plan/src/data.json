@@ -140,12 +140,12 @@
         "To master skills of technical communication",
         "To implement mathematical structure in programming",
         "To use industry-standard tools such as GitHub to maintain code",
-        "To write clean and readable Python code that is easy for others to understand.",
+        "To write clean and readable Python code that is convenient for others to understand.",
       ],
       "learningOutcomes": [
         "To test programs thoroughly before submission.",
         "To demonstrate proficiency in python programming environments.",
-        "To be to create clear and meaningful technical documentation.",
+        "To create clear and meaningful technical documentation.",
         "To be able to demonstrate mathematical concepts and translate meaning in language.",
         "To be able to work effectively in Python environments"
       ]
@@ -415,28 +415,66 @@
       "inflevel": "Module",
       "infSub": "Health Informatics",
       "selevel": "",
-      "topics": [
-        "Ethics",
+      "technicalTopics": [
+        "DNA Basics",
+        "Central Dogma of Biology",
+        "Replication of DNA",
+        "BioPython",
         "Sequence Alignment",
-        "Code Review",
-        "Philosophy of Biology",
+        "Sequence Annotation",
+        "Blast",
+        "SubMatrices",
+        "Ethics",
         "Databases",
-        "Mathematical Programming",
         "Genetic Mutation",
-        "Bioinformatics",
         "Gene Prediction",
-        "Data Modeling"
+        "Gene Sequencing"
+      ],
+      "professionalTopics": [
+        "biological systems",
+        "Docker",
+        "Processing biological data"
+        "GatorGrader",
+        "GitHub",
+        "Teamwork",
+        "Code Development",
+        "Communication",
+        "Presentations",
+        "Analysis",
+        "Programming Tools",
+        "Online tools for analysis of biological data"
       ],
       "tools": [
-        "BLAST",
         "UniProt",
-        "Docker",
+        "Python",
         "GatorGrader",
-        "GitHub"
+        "Git",
+        "Blast"
+        "GitHub",
+        "Online databases of biological phenomena",
+        "VScode",
+        "Jupyter Notebook",
+        "Markdown"
       ],
-      "lab": [],
-      "learningObjectives": [],
-      "learningOutcomes": []
+      "platform": [
+        "https://github.com/Computational-Bioinformatics"],
+      "learningObjectives": [
+        "To gain a world-view of bioinformatics and its research interests",
+        "To learn how genetic information is obtained and processed",
+        "To understand how to create tools to address data from biological systems",
+        "To master skills of technical communication",
+        "To harness online tools to evaluate data and produce results",
+        "To learn how to address research project as a team effort",
+        "To master programming tools to craft tools to evaluate biological data"
+      ],
+      "learningOutcomes": [
+        "To gain practical experience in the design, implementation, and analysis of bioinformatics research",
+        "To reason critically from results gained from own programmed or online tools",
+        "To master software development tools to create programs and code which can be shared with others",
+        "To be able to work effectively in Python environments",
+        "To gain skills for communication of results to showcase discovery from biological data", 
+        "To provide visual results of analysis of biological phenomena"
+      ]
     },
     {
       "courseNumber": "CMPSC 105",
@@ -465,19 +503,56 @@
       "inflevel": "Foundation",
       "infSub": "",
       "selevel": "Foundation",
-      "topics": [
+      "technicalTopics": [
         "Teamwork",
-        "Data Structures",
-        "Recursion"
+        "Acquiring Data",
+        "Processing Data",
+        "Programming Constructs",
+        "Statistics",
+        "Visualization",
+        "Communication",
+        "Comprehension of Arguments by Data",
+        "Validation by Data"
       ],
+      "professionalTopics": [
+        "teamwork",
+        "code development",
+        "communication",
+        "presentations",
+        "analysis",
+        "programming"
+      ],      
       "tools": [
-        "Docker",
+        "RStudio",
+        "Jupyter Notebook",
+        "R Rrogramming",
+        "Python",
+        "GatorGrader",
+        "Git",
         "GitHub",
-        "Git"
+        "Matplotlib",
+        "VScode",
+        "CSV",
+        "Markdown"        
       ],
-      "lab": [],
-      "learningObjectives": [],
-      "learningOutcomes": []
+      "platform": ["TBA"],
+      "learningObjectives": [
+        "To understand programming and statistical constructs",
+        "To create own tools for particular applications of analysis",
+        "To master skills of technical communication",
+        "To understand which data is necessary for specific applications of analysis",
+        "To implement mathematical structure in programming",
+        "To use industry-standard tools such as GitHub to maintain code",
+        "To write clean and readable Python and R-programming code that is convenient for others to understand.",
+      ],
+      "learningOutcomes": [
+        "To determine appropriate solutions and tool-types for task.",
+        "To be able to program tools for specific analysis",
+        "To demonstrate proficiency in python and R programming environments.",
+        "To create clear and meaningful technical documentation.",
+        "To be able to obtain results, critically reason them and form conclusions.",
+        "To be able to work effectively in Python environments"
+      ]
     },
     {
       "courseNumber": "CMPSC 201",
@@ -560,14 +635,62 @@
         "Plotting",
         "Ethics"
       ],
-      "tools": [
-        "Docker",
-        "R",
+      "technicalTopics": [
+        "RStudio",
+        "R-programming"
+        "Tidyverse",
+        "psych",
         "ggplot"
+        "Regression, Single and Multivariate analysis",
+        "T-test",
+        "ANOVA",
+        "General Statistics",
+        "Correlations",
+        "Ethical interests associated with analytics"
       ],
-      "lab": [],
-      "learningObjectives": [],
-      "learningOutcomes": []
+      "professionalTopics": [
+        "teamwork",
+        "tool development",
+        "data gathering and processing",
+        "communication",
+        "presentations",
+        "analysis",
+        "programming",
+        "models for prediction"
+      ],
+      "tools": [
+        "RStudio",
+        "R Programming"
+        "GatorGrader",
+        "Git",
+        "GitHub",
+        "CSV",
+        "Markdown",
+        "Online tools for analysis",
+        "Google Analytics"
+        "Models"
+      ],
+      "platform": [
+        "https://github.com/CMPSC-301-Allegheny-College-Spring-2023"
+      ],
+      "learningObjectives": [
+        "A experience a big-picture overview of data analytics",
+        "To gain an understanding of the objectives and limitations of data analytics",
+        "To foster an understanding of the main data analytics methods.",
+        "To gain practical experience using software tools and programming techniques",
+        "To examine some of the contemporary roles of power and difference as they relate to the knowledge derived from data",
+        "To gain an understanding of biases, discrimination and stereotypes that maybe present during collection, analysis, and reflection on the latent trends in real-world data sets",
+        "To gain practical experience in the design, implementation, and analysis of data for research"
+      ],
+      "learningOutcomes": [
+        "To acquire and process public data",
+        "To write clean and readable R code that is convenient for others to understand",
+        "To use statistical models effectively within different contexts",
+        "To gain skills for communication of results to showcase discovery of phenomena from data",
+        "To gain experience using Google Analytics",
+        "To be able to employ statistical models to detect concepts",
+        "To be able to create plots to visually describe results"
+      ]
     },
     {
       "courseNumber": "CMPSC 529",
@@ -2795,12 +2918,52 @@
               "infSub": "Geoinformatics",
               "selevel": "Electives",
 
-              "topics": ["Teamwork", "Queries", "Version Control Systems", "Databases", "Ethics", "Data Modeling", "Data Storage", "Code Review"],
-              "tools": ["Apache Cassandra", "GitHub", "SQL", "Django", "MongoDB", "SQLite", "Docker", "Neo4j", "GatorGrader", "Python"],
-
-              "lab": [],
-              "learningObjectives": [],
-              "learningOutcomes": []
+              "technicalTopics": [
+                "Teamwork",
+                "Queries",
+                "Design",
+                "Maintenance",
+                "Ethics",
+                "Data Modeling",
+                "Data Storage",
+                "Visualization"
+              ],
+              "professionalTopics": [
+                "teamwork",
+                "code development",
+                "communication",
+                "presentations",
+                "analysis",
+                "programming"
+                ],
+              "tools": [
+                "Apache Cassandra",
+                "GitHub",
+                "SQL and No-SQL",
+                "Django",
+                "MongoDB",
+                "SQLite3",
+                "Neo4j",
+                "GatorGrader",
+                "Python"
+              ],
+              "platform": [
+                "https://github.com/Allegheny-ComputerScience-312-S2022"
+              ],
+              "learningObjectives": [
+                "To investigate some of the key techniques that scientists use to manage data",
+                "To learn general SQL programming",
+                "To learn program basic and advanced queries",
+                "To gain experience in designing databases",
+                "To learn how to communicate ideas based on output of queries"
+              ],
+              "learningOutcomes": [
+                "To learn general programming in no-SQL programming environments",
+                "To understand database concepts such as normalization, indexing, security etc.",
+                "To be able to use SQL to write complex SELECT statements with filtering conditions using logical operators like AND OR NOT",
+                "To learn general MongoDB and Neo4j programming",
+                "To learn how database management may be automated using Python"
+              ]
               },
 
               {
