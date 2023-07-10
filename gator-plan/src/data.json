@@ -494,17 +494,57 @@
         "infSub": "",
         "selevel": "Core",
         "technicalTopics": [
-          "Language Design", "Compilation", "Interpretation", "Understanding Java", "Syntax", "Grammars", "Parsing", "Scoping", "Binding", "Storage Management", "Control Flow", "Functions", "Typing", "Language Paradigms", "Language Security"
+          "Language Design", 
+          "Compilation", 
+          "Interpretation", 
+          "Understanding Java", 
+          "Syntax", 
+          "Grammars", 
+          "Parsing", 
+          "Scoping", 
+          "Binding", 
+          "Storage Management", 
+          "Control Flow", 
+          "Functions", 
+          "Typing", 
+          "Language Paradigms", 
+          "Language Security"
         ],
         "professionalTopics": [
-          "teamwork", "code review", "communication"
+          "teamwork", 
+          "code review", 
+          "communication",
+          "presentation",
+          "ethics"
         ],
         "tools": [
-          "C", "C++", "Docker", "Git", "Go", "Haskell", "Java", "Java Bytecode", "JavaScript", "Python"
+          "C", 
+          "C++", 
+          "Docker", 
+          "Git", 
+          "GitHub",
+          "Go", 
+          "Haskell", 
+          "Java", 
+          "Java Bytecode", 
+          "JavaScript", 
+          "Python"
         ],
         "platform": ["https://github.com/CMPSC-201-Spring2023"],
-        "learningObjectives": ["Understand fundamental concepts that underlie programming language syntax and semantics", "Gain exposure to different languages and language paradigms", "Learn how to use language constructs effectively to design correct and elegant programs", "Continue developing team-working strategies", "Enhance ability to write and present ideas about software in a clear, concise, and compelling fashion"],
-        "learningOutcomes": ["Can proficiently program in languages such as Java", "Able to design and understand a simple grammar for a language", "Able to implement a simple scanner", "Able to create a simple parser", "Be able to learn new programming languages with a minimum effort based on an understanding of general principles of language design and implementation"]
+        "learningObjectives": [
+          "Understand fundamental concepts that underlie programming language syntax and semantics", 
+          "Gain exposure to different languages and language paradigms", 
+          "Learn how to use language constructs effectively to design correct and elegant programs", 
+          "Continue developing team-working strategies", 
+          "Enhance ability to write and present ideas about software in a clear, concise, and compelling fashion"
+        ],
+        "learningOutcomes": [
+          "Can proficiently program in languages such as Java", 
+          "Able to design and understand a simple grammar for a language", 
+          "Able to implement a simple scanner", 
+          "Able to create a simple parser", 
+          "Can learn new programming languages with a minimum effort based on an understanding of general principles of language design and implementation"
+        ]
       },
       {
         "courseNumber": "CMPSC 301",
@@ -537,6 +577,46 @@
         "inflevel": "",
         "infSub": "",
         "selevel": "",
+        "topics": [
+          "Statistical Analysis",
+          "Plotting",
+          "Ethics"
+        ],
+        "tools": [
+          "Docker",
+          "R",
+          "ggplot"
+        ],
+        "lab": [],
+        "learningObjectives": [],
+        "learningOutcomes": []
+      },
+      {
+        "courseNumber": "CMPSC 405",
+        "courseName": "Deep Learning",
+        "Major": [
+          "Data Science Major"
+        ],
+        "Minor": [
+          "Data Science Minor"
+        ],
+        "credits": "4",
+        "distributionRequirements": [
+          "QR",
+          "SP"
+        ],
+        "prerequisites": {
+          "anyof": [],
+          "allof": ["CMPSC 301"]
+        },
+        "unlocks": [],
+        "courseDescription": "An interrogation of foundational capabilities, challenges and consequences of deep learning algorithms. Participating in hands-on activities that often require teamwork, students master theoretical concepts to build and train neural network architectures and learn how to improve them. Leveraging insights and tools from an industry partner, students also investigate real-world cases such as speech recognition, machine translation, computer vision, and natural language processing. During a weekly laboratory session students use advanced operating systems software to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. ",
+        "cslevel": "",
+        "dslevel": "Core",
+        "dsSub": "",
+        "inflevel": "",
+        "infSub": "",
+        "selevel": "",
         "technicalTopics": [
           "Relevant Linear Algebra",
           "Relevant Calculus",
@@ -551,7 +631,10 @@
         ],
         "professionalTopics": [
           "Environmental Impact",
-          "Ethics"
+          "Ethics",
+          "Teamwork",
+          "Professional Communication",
+          "Project Management"
         ],
         "tools": [
           "Python",
@@ -566,8 +649,20 @@
           "GitHub"
         ],
         "platform": [],
-        "learningObjectives": [],
-        "learningOutcomes": []
+        "learningObjectives": [
+          "Understand basic concepts of linear algebra and be able to apply them in deep learning",
+          "Understand basic concepts of calculus and be able to apply them in deep learning",
+          "Can apply a neural network architecture to a problem",
+          "Able to build, train, test and deploy a deep learning model",
+          "Able to evaluate, optimize and improve the performance of a deep learning model"
+        ],
+        "learningOutcomes": [
+          "Can implement a simple neural network application in Python",
+          "Can apply an existing deep neural network model to a problem",
+          "Can apply a transformer model to a problem",
+          "Able to implement and evaluate a new deep learning model",
+          "Can effectively document the implemented deep learning solutions"
+        ]
       },
       {
         "courseNumber": "CMPSC 529",
@@ -598,15 +693,30 @@
           "topics vary based on the assigned industry project"
         ],
         "professionalTopics": [
-          "teamwork", "meetings", "communication"
+          "teamwork", 
+          "meetings with industry partner", 
+          "communication",
+          "presentation",
+          "documentation"
         ],
         "tools": [
           "GitHub",
           "Git"
         ],
         "platform": ["https://github.com/CMPSC-529-Allegheny-CS-Internship"],
-        "learningObjectives": ["Gain hands-on experience working with an industry partner", "Experiment with new technologies", "Engage in appropriate industry practices related to the project", "Enhance ability to write and present ideas about a technical project", "Expand team working experiences"],
-        "learningOutcomes": ["Able to gather project requirements from an industry partner", "Can follow established processes while working in a team", "Able to work in an iterative manner on a project", "Able to create and deploy a solution that is satisfactory to the industry partner", "Can effectively and clearly communicate with team members and industry supervisors"]
+        "learningObjectives": [
+          "Gain hands-on experience working with an industry partner", 
+          "Experiment with new technologies", 
+          "Engage in appropriate industry practices related to the project", 
+          "Enhance ability to write and present ideas about a technical project", 
+          "Expand team working experiences"
+        ],
+        "learningOutcomes": [
+          "Able to gather project requirements from an industry partner", 
+          "Can follow established processes while working in a team", 
+          "Able to work in an iterative manner on a project", 
+          "Able to create and deploy a solution that is satisfactory to the industry partner", 
+          "Can effectively and clearly communicate with team members and industry supervisors"]
       },
       {
         "courseNumber": "CMPSC 101",
@@ -691,10 +801,23 @@
         "infSub": "",
         "selevel": "",
         "technicalTopics": [
-          "Ethical Robots", "Actuating", "Sensing", "Locomotion", "Modularity", "Navigation", "Robot Operating System", "Manipulation", "Mapping", "Learning in robotics"
+          "Ethical Robots", 
+          "Actuating", 
+          "Sensing", 
+          "Locomotion", 
+          "Modularity", 
+          "Navigation", 
+          "Robot Operating System", 
+          "Manipulation", 
+          "Mapping", 
+          "Learning in robotics"
         ],
         "professionalTopics": [
-          "community engagement", "teamwork", "code review", "communication"
+          "community engagement", 
+          "teamwork", 
+          "code review", 
+          "ethics",
+          "demonstration"
         ],
         "tools": [
           "Python",
@@ -858,8 +981,20 @@
           "3D printing"
         ],
         "platform": [],
-        "learningObjectives": [],
-        "learningOutcomes": []
+        "learningObjectives": [
+          "Understand and be able to identify the components of the IoT architecture",
+          "Be able to select an appropriate protocol for communication between IoT",
+          "Understand and be able to set up electronic circuitry needed for IoT",
+          "Able to design IoT systems with human interaction in mind",
+          "Learn about the issues of privacy and security in IoT systems"
+        ],
+        "learningOutcomes": [
+          "Can determine most appropriate IoT devices and sensors for an IoT application",
+          "Able to design, implement, test and deploy an IoT system",
+          "Able to write programs to automatically collect and analyze data from IoT devices",
+          "Can connect IoT systems to cloud computing infrastructure",
+          "Able to secure the elements of the IoT device"
+        ]
       },
       {
         "courseNumber": "ART 187",
@@ -2788,12 +2923,43 @@
             "infSub": "",
             "selevel": "Core",
   
-            "technicalTopics": ["Security Principles", "Ethical Hacking", "Threat Modelling", "Buffer Overflow", "Memory Safety", "Cryptography", "Encryption", "Web Security", "Network Security", "Privacy and Anonymity", "Authentication", "Policy and Economics"],
+            "technicalTopics": [
+              "Security Principles", 
+              "Ethical Hacking", 
+              "Threat Modelling", 
+              "Buffer Overflow", 
+              "Memory Safety", 
+              "Cryptography", 
+              "Encryption", 
+              "Web Security", 
+              "Network Security", 
+              "Privacy and Anonymity", 
+              "Authentication", 
+              "Policy and Economics"
+            ],
             "professionalTopics": [
-              "teamwork", "ethics", "presentation", "careers"
+              "teamwork", 
+              "ethics", 
+              "presentation", 
+              "careers"
             ],
 
-            "tools": ["Linux OS", "Windows OS", "C", "Python", "Git", "GitHub", "JavaScript"],
+            "tools": [
+              "Linux OS", 
+              "Windows OS", 
+              "C", 
+              "Python", 
+              "Git", 
+              "GitHub", 
+              "JavaScript",
+              "shell",
+              "ssh",
+              "nmap",
+              "GoBuster",
+              "WPScan",
+              "Hash Analyzers and Identifiers",
+              "John the Ripper"
+            ],
   
             "platform": ["https://github.com/CMPSC403-AlleghenyCollege-Fall2021"],
             "learningObjectives": ["Develop skills to tackle security challenges", "Learn about theory and practice of computer security", "Be able to reason about security defenses and attacks", "Evaluate the performance of various systems with respect to security while considering their social, political, and ethical implications", "Write and present ideas about secure systems in a clear, concise, and compelling fashion"],
@@ -2874,15 +3040,53 @@
             "infSub": "",
             "selevel": "Electives",
   
-            "technicalTopics": ["Agents", "Search Algorithms in AI", "Learning Overview", "Supervised Learning", "Computer Vision", "Natural Language Processing", "Bayes Theory", "Neural Networks", "Attention Mechanisms", "Transformers", "Prompt Engineering"],
-            "professionalTopics": [
-              "teamwork", "code review", "communication"
+            "technicalTopics": [
+              "Intelligent Agents", 
+              "Search Algorithms in AI", 
+              "Knowledge and reasoning",
+              "Planning",
+              "Probabilistic reasoning",
+              "Bayes Theory", 
+              "Decision Making", 
+              "Supervised Learning", 
+              "Unsupervised Learning", 
+              "Neural Networks"
             ],
-            "tools": ["Arduino", "GitHub", "Tensoflow", "Keras", "Python", "Google Colab", "GPT", "Docker",  "OpenCV", "NLTK"],
+            "professionalTopics": [
+              "teamwork", 
+              "code review", 
+              "communication",
+              "demonstration",
+              "ethics"
+            ],
+            "tools": [
+              "Git", 
+              "GitHub", 
+              "Tensoflow", 
+              "Keras", 
+              "Python", 
+              "Google Colab", 
+              "GPT", 
+              "Docker", 
+              "OpenCV", 
+              "NLTK"
+            ],
   
             "platform": ["https://github.com/CMPSC-310-AI-Spring2023"],
-            "learningObjectives": ["Understand foundational principles that drive the field of artificial intelligence", "Practice implementing intelligent applications", "Investigate social problems around AI including ethical concerns and environmental challenges", "Learn how to determine when an AI approach is appropriate for a given situation, be able to select and implement an AI method for it", "Learn to evaluate the developed AI systems while considering their social, political and ethical implications"],
-            "learningOutcomes": ["Can create a simple agent using Arduino board and sensors", "Able to apply search algorithm to solve an agent-based problem", "Can design, implement and assess an intelligent system for a computer vision application using supervised learning", "Can design, implement and assess an intelligent system for a natural language processing application using deep neural networks", "Can effectively reflect on ethical, political and social issues surrounding AI"]
+            "learningObjectives": [
+              "Understand foundational principles that drive the field of artificial intelligence", 
+              "Practice implementing intelligent applications", 
+              "Investigate social problems around AI including ethical concerns and environmental challenges", 
+              "Learn how to determine when an AI approach is appropriate for a given situation, be able to select and implement an AI method for it", 
+              "Learn to evaluate the developed AI systems while considering their social, political and ethical implications"
+            ],
+            "learningOutcomes": [
+              "Can implement a simple intelligent agent and identify its properties", 
+              "Able to apply search algorithm to solve an agent-based problem", 
+              "Can design, implement and assess an intelligent system for an AI application using supervised learning", 
+              "Can design, implement and assess an intelligent system for an AI application using neural networks", 
+              "Can effectively reflect on ethical, political and social issues surrounding AI"
+            ]
             },
       {
         "courseNumber": "COMM 256",
