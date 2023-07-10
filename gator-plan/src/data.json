@@ -3423,24 +3423,54 @@
       "inflevel": "Project",
       "infSub": "",
       "selevel": "Project",
-      "topics": [
+      "technicalTopics": [
         "Planning",
         "Idea Development",
         "Professional Development",
         "Literature Review",
         "User Studies"
       ],
+      "professionalTopics": [
+        "idea development",
+        "code development",
+        "communication",
+        "presentations",
+        "analysis",
+        "programming",
+        "Finding literature",
+        "Prototyping",
+        "Addressing scope of idea",
+        "Determinging feasibility"
+      ],
       "tools": [
         "Docker",
         "Latex",
-        "GatorGrader",
         "Python",
-        "GitHub",
         "R"
+        "GatorGrader",
+        "Markdown"
+        "GitHub",
+        "Streamlit"
       ],
-      "lab": [],
-      "learningObjectives": [],
-      "learningOutcomes": []
+      "platform": [
+        "https://github.com/CMPSC-580-Allegheny-College-Spring-2023"
+      ],
+      "learningObjectives": [
+        "To learn how to plan a senior thesis project",
+        "To isolate an area of interst to extract a research idea",
+        "To develop skill and gain knowledge in an idea by create a literature review",
+        "To develop presentations to update class of progress",
+        "To gain experience in programming prototype artifacts to demonstrate proficiency in topic area",
+        "To learn how to write a proposal for senior thesis"
+      ],
+      "learningOutcomes": [
+        "To be able to use appropriate technologies to implement idea",
+        "To gain experience in communicating technical ideas (verbally and in writing)",
+        "To be able to create prototype from programming or other means",        
+        "To be able assess scope and feasiblility for a senior thesis project timeline",
+        "To be able to create preliminary data, code, or a product from the research idea",
+        "To be able to find own steps and solutions for the completion of technical research projects"
+      ]
     },
     {
       "courseNumber": "CMPSC 590",
